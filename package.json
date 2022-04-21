@@ -1,0 +1,69 @@
+{
+    "name": "amiral-ariska-theme",
+    "displayName": "Amiral Ariska Theme",
+    "description": "Offical Amiral Ariska Theme",
+    "publisher": "amiralariska",
+    "icon": "images/icon/amiral-ariska-logo.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amiralariska/amiral-ariska-theme"
+    },
+    "author": {
+        "name": "Amiral Ariska"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Amiral Ariska Theme",
+        "Amiral Ariska Dark Theme",
+        "Amiral Ariska Light Theme",
+        "Amiral Ariska",
+        "amiral ariska theme",
+        "amiral ariska dark theme",
+        "amiral ariska light theme",
+        "amiral ariska",
+        "codeSTACKr Theme",
+        "codeSTACKr",
+        "VSCODE Dark Theme",
+        "VSCODE Light Theme",
+        "VSCODE Theme",
+        "VSCODE",
+        "vscode dark theme",
+        "vscode light theme",
+        "vscode theme",
+        "vscode",
+        "Dark Theme",
+        "Light Theme",
+        "dark theme",
+        "light theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Amiral Ariska Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-dark-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-light-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Dark Theme (Muted)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-dark-muted-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme (Muted)",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-light-muted-color-theme.json"
+            }
+        ]
+    }
+}
