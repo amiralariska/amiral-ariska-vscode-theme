@@ -1,0 +1,8 @@
+node_modules
+*.vsix
+*.txt
+*.zip
+*.rar
+*.bat
+.gitattributes
+vsc-extension-quickstart.md
