@@ -304,6 +304,16 @@
 			}
 		},
 		{
+			"name": "CSS Quotes String",
+			"scope": [
+				"support.constant", "string.quoted.double.css",
+				"string.quoted.single.css",
+			],
+			"settings": {
+				"foreground": "#00c500"
+			}
+		},
+		{
 			"name": "Star symbol",
 			"scope": "entity.name.tag.wildcard",
 			"settings": {
@@ -362,7 +372,7 @@
 			"name": "CSS Tag",
 			"scope": ["punctuation.definition.entity", "entity.name.tag.css"],
 			"settings": {
-				"foreground": "#ff8500"
+				"foreground": "#0000ff"
 			}
 		},
 		{
@@ -392,7 +402,7 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"constant.language", "support.constant","constant.escape",
+				"constant.language", "constant.escape",
 				"variable.parameter", "keyword.other"
 			],
 			"settings": {
@@ -401,23 +411,30 @@
 		},
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
-			"scope": [
-				"string.quoted.double.html", "string.quoted.single.html",
-				"string.quoted.double.php", "string.quoted.single.php",
-				"string.quoted.double.css", "string.quoted.single.css",
-				"punctuation.definition.string.begin.html",
-				"punctuation.definition.string.end.html",
-				"punctuation.definition.string.begin.php",
-				"punctuation.definition.string.end.php",
-				"constant.other.symbol",
-				"punctuation.definition.string.begin.svg",
-				"punctuation.definition.string.end.svg", "constant.other.key",
+			"scope": [				
+				"constant.other.symbol", "constant.other.key",
 				"entity.other.inherited-class", "markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
 				"foreground": "#ff8500"
+			}
+		},
+		{
+			"name": "HTML, SVG And PHP Quotes",
+			"scope": [
+				"string.quoted.double.html", "string.quoted.single.html",
+				"string.quoted.double.php", "string.quoted.single.php",
+				"punctuation.definition.string.begin.html",
+				"punctuation.definition.string.end.html",
+				"punctuation.definition.string.begin.svg",
+				"punctuation.definition.string.end.svg", 
+				"punctuation.definition.string.begin.php",
+				"punctuation.definition.string.end.php",
+			],
+			"settings": {
+				"foreground": "#00df00"
 			}
 		},
 		{
@@ -511,10 +528,11 @@
 			"scope": [
 				"punctuation.definition.entity.css",
 				"entity.other.attribute-name.id", "entity.other.attribute-name.class",
-				"entity.other.attribute-name.pseudo-class"
+				"entity.other.attribute-name.pseudo-class",
+				"entity.other.attribute-name.pseudo-element.css"
 			],
 			"settings": {
-				"foreground": "#FF8500"
+				"foreground": "#00c500"
 			}
 		},
 		{
