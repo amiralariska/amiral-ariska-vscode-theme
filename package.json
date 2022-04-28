@@ -8,11 +8,11 @@
         "type": "git",
         "url": "https://github.com/amiralariska/amiral-ariska-theme"
     },
-    "author": {
-        "name": "Amiral Ariska"
-    },
     "galleryBanner": {
         "color": "#0000ff"
+    },
+    "author": {
+        "name": "Amiral Ariska"
     },
     "version": "0.0.1",
     "engines": {
