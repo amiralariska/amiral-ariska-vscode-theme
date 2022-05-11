@@ -54,11 +54,11 @@ this font is free for programmer
 4. Click on the pencil icon to edit keyboard shortcuts. Change Color Theme Keyboard Shortcuts. and then press `Ctrl+T` on your keyboard. then press enter
 [![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://xp.io/storage/AUbcMJg.gif)](https://xp.io/storage/AUbcMJg.gif)
 5. And now keyboard shortcuts has been changed
+> Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
 ## Other Keyboard Shortcuts Tips
 For more information About Amiral Ariska Theme Keyboard Shortcuts Tips<br>
 Click link down below<br>
 [Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-theme-release/blob/amiral-ariska-theme-release/amiral-ariska-theme-keyboard-shortcuts-tips.md)
-> Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
