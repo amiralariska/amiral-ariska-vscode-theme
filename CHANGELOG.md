@@ -10,8 +10,8 @@
 ### Release
 - New Dark Theme Released
 - New Light Theme Released
-- New Light Theme (Muted) Released
 - New Dark Theme (Muted) Released
+- New Light Theme (Muted) Released
 
 ## 0.0.2
 ### Update VSCODE Theme
@@ -19,3 +19,11 @@
 
 ### Update VSCODE Theme Extension
 - VSCODE Theme Extension Updates: Add Gallery Banner Background Color
+
+## 0.0.3
+### Update README
+- README Updates: Add Keyboard Shortcuts Tips
+- README Updates: Add Other Keyboard Shortcuts Tips Link
+
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update VSCODE Theme
