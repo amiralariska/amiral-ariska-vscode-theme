@@ -176,14 +176,14 @@
 			"name": "Comment",
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
-				"foreground": "#0050df"
+				"foreground": "#0025ff"
 			}
 		},
 		{
 			"name": "Variables other constant",
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#00cfff"
+				"foreground": "#0085df"
 			}
 		},
 		{
@@ -214,48 +214,67 @@
 			"name": "Keyword, Storage",
 			"scope": ["keyword", "storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#0085cf"
+				"foreground": "#0035ef"
+			}
+		},
+		{
+			"name": "Javascript Curly Bracket, Round Bracket, Square Bracket",
+			"scope": [
+				"punctuation.definition.block", "punctuation.definition.parameters",
+				"meta.brace.round.js", "meta.brace.square.js"
+			],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "Javscript keyword control",
+			"scope": ["keyword.control"],
+			"settings": {
+				"foreground": "#1550ef"
 			}
 		},
 		{
 			"name": "JSDOC Comments",
 			"scope": [
-				"storage.type.class.jsdoc", "punctuation.definition.block.tag.jsdoc",
-				"entity.name.type.instance.jsdoc"
+				"storage.type.class.jsdoc", "entity.name.type.instance.jsdoc",
+				"punctuation.definition.block.tag.jsdoc"
 			],
 			"settings": {
 				"foreground": "#5095df",
 			}
 		},
 		{
-			"name": "Javascript Quotes",
+			"name": "Javascript Quotes And Template Literal String",
 			"scope":[
-				"punctuation.definition.string.begin.js",
-				"punctuation.definition.string.end.js", "string.quoted.double.js",
-				"punctuation.definition.string.template.begin.js",
-				"punctuation.definition.string.template.end.js"
+				"punctuation.definition.string.begin.js", "punctuation.definition.string.end.js",
+				"string.quoted.single.js", "string.quoted.double.js", "string.template.js",
+				"punctuation.definition.string.template.begin.js", "punctuation.definition.string.template.end.js"
 			],
 			"settings": {
 				"foreground": "#00c500"
 			}
 		},
 		{
-			"name": "Javascript Quotes",
-			"scope":[
-				"punctuation.definition.template-expression.begin.js",
-				"punctuation.definition.template-expression.end.js",
-			],
+			"name": "Javascript Quotes - Template Literal String Expression",
+			"scope":["punctuation.definition.template-expression.begin.js", "punctuation.definition.template-expression.end.js"],
 			"settings": {
-				"foreground": "#0000b5"
+				"foreground": "#0000c5"
+			}
+		},
+		{
+			"name": "Javascript Object Property",
+			"scope": "meta.object-literal.key.js",
+			"settings": {
+				"foreground": "#2585cf"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control", "constant.other.color", "meta.tag",
-				"punctuation.definition.tag", "punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html", "keyword.other.template",
-				"keyword.other.substitution"
+				"constant.other.color", "meta.tag", "punctuation.definition.tag",
+				"punctuation.separator.inheritance.php", "punctuation.definition.tag.html",
+				"keyword.other.template", "keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#00ffff"
@@ -274,20 +293,18 @@
 		{
 			"name": "bracket curly",
 			"scope": [
-				"meta.brace.round.js", "punctuation.section.function",
-				"punctuation.definition.block", "punctuation.terminator.statement",
-				"punctuation.definition.parameters", "punctuation.section.property-list",
+				"punctuation.section.function", "punctuation.terminator.statement",
 				"punctuation.section", "punctuation.accessor"
 			],
 			"settings": {
-				"foreground": "#c5c5c5"
+				"foreground": "#dfdfdf"
 			}
 		},
 		{
-			"name": "CSS Bracket",
+			"name": "CSS Curly Bracket, Round Bracket",
 			"scope":[
-				"punctuation.section.function.begin.bracket.round",
-				"punctuation.section.function.end.bracket.round",
+				"punctuation.section.function.begin.bracket.round", "punctuation.section.function.end.bracket.round",
+				"punctuation.section.property-list"
 			],
 			"settings": {
 				"foreground": "#00efef"
@@ -295,22 +312,23 @@
 		},
 		{
 			"name": "CSS Quotes",
-			"scope": [
-				"punctuation.definition.string.begin.css",
-				"punctuation.definition.string.end.css"
-			],
+			"scope": ["punctuation.definition.string.begin.css", "punctuation.definition.string.end.css"],
 			"settings": {
 				"foreground": "#00a5ff"
 			}
 		},
 		{
 			"name": "CSS Quotes String",
-			"scope": [
-				"support.constant", "string.quoted.double.css",
-				"string.quoted.single.css",
-			],
+			"scope": ["string.quoted.double.css", "string.quoted.single.css"],
 			"settings": {
-				"foreground": "#00c500"
+				"foreground": "#00cf00"
+			}
+		},
+		{
+			"name": "CSS Property Value",
+			"scope": "support.constant", 
+			"settings": {
+				"foreground": "#2550cf"
 			}
 		},
 		{
@@ -334,21 +352,21 @@
 				"constant.numeric", "constant.other.color.rgb-value.hex",
 			],
 			"settings": {
-				"foreground": "#c500c5"
+				"foreground": "#cf00cf"
 			}
 		},
 		{
 			"name": "Hex, Unit",
 			"scope": ["punctuation.definition.constant.css", "keyword.other.unit"],
 			"settings": {
-				"foreground": "#00c500"
+				"foreground": "#00cf00"
 			}
 		},
 		{
 			"name": "url",
 			"scope": "support.function.url",
 			"settings": {
-				"foreground": "#dfdf00"
+				"foreground": "#0050ef"
 			}
 		},
 		{
@@ -382,7 +400,14 @@
 				"support.function", "keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#d5d535"
+				"foreground": "#00a5df"
+			}
+		},
+		{
+			"name": "Javascript Parameter",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#0050cf"
 			}
 		},
 		{
@@ -401,10 +426,7 @@
 		},
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-			"scope": [
-				"constant.language", "constant.escape",
-				"variable.parameter", "keyword.other"
-			],
+			"scope": ["constant.language", "constant.escape", "keyword.other"],
 			"settings": {
 				"foreground": "#ff8500"
 			}
@@ -414,8 +436,7 @@
 			"scope": [				
 				"constant.other.symbol", "constant.other.key",
 				"entity.other.inherited-class", "markup.heading",
-				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"markup.inserted.git_gutter", "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
 				"foreground": "#ff8500"
@@ -426,12 +447,9 @@
 			"scope": [
 				"string.quoted.double.html", "string.quoted.single.html",
 				"string.quoted.double.php", "string.quoted.single.php",
-				"punctuation.definition.string.begin.html",
-				"punctuation.definition.string.end.html",
-				"punctuation.definition.string.begin.svg",
-				"punctuation.definition.string.end.svg", 
-				"punctuation.definition.string.begin.php",
-				"punctuation.definition.string.end.php",
+				"punctuation.definition.string.begin.html", "punctuation.definition.string.end.html",
+				"punctuation.definition.string.begin.svg", "punctuation.definition.string.end.svg", 
+				"punctuation.definition.string.begin.php", "punctuation.definition.string.end.php",
 			],
 			"settings": {
 				"foreground": "#00df00"
@@ -467,7 +485,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#00c5c5"
+				"foreground": "#00cfcf"
 			}
 		},
 		{
@@ -491,8 +509,7 @@
 			"name": "entity.name.method.js",
 			"scope": "entity.name.method.js",
 			"settings": {
-				"foreground": "#82AAFF",
-				"fontStyle": "italic"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -519,8 +536,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FFCB6B",
-				"fontStyle": "italic"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -588,52 +604,56 @@
 			"name": "Decorators",
 			"scope": ["tag.decorator.js entity.name.tag.js", "tag.decorator.js punctuation.definition.tag.js"],
 			"settings": {
-				"foreground": "#82AAFF",
-				"fontStyle": "italic"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
 			"name": "ES7 Bind Operator",
 			"scope": "source.js constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
-				"foreground": "#FF5370",
-				"fontStyle": "italic"
+				"foreground": "#FF5370"
 			}
 		},
 		{
 			"name": "JSON dictionary",
-			"scope": [
-				"punctuation.separator", "punctuation.definition.dictionary"
-			],
+			"scope": "punctuation.definition.dictionary",
 			"settings": {
-				"foreground": "#d7d7d7"
+				"foreground": "#00ffff"
+			}
+		},
+		{
+			"name": "JSON Separator",
+			"scope": "punctuation.separator",
+			"settings": {
+				"foreground": "#dfdfdf"
+			}
+		},
+		{
+			"name": "JSON Array",
+			"scope":"punctuation.definition.array",
+			"settings": {
+				"foreground": "#00ffff"
 			}
 		},
 		{
 			"name": "JSON string",
 			"scope":[
-				"string",
-				"punctuation.definition.string.begin.json",
-				"punctuation.definition.string.end.json",
-				"punctuation.definition.string.begin.json.comments",
+				"string", "punctuation.definition.string.begin.json",
+				"punctuation.definition.string.end.json", "punctuation.definition.string.begin.json.comments",
 				"punctuation.definition.string.end.json.comments"
 			],
 			"settings": {
-				"foreground": "#509500"
+				"foreground": "#50a500"
 			}
 		},
 		{
 			"name":"JSON Key - Level 0 - 8",
 			"scope":[
 				"punctuation.support.type.property-name",
-				"source.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json", "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings":{
 				"foreground":"#0075ff"
@@ -717,7 +737,7 @@
 			"name": "Markup - Underline",
 			"scope": "markup.underline",
 			"settings": {
-				"foreground": "#ff8500", "fontStyle": "underline"
+				"foreground": "#00df00", "fontStyle": "underline"
 			}
 		},
 		{
