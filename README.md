@@ -1,4 +1,4 @@
-[![Amiral Ariska Theme Demo](https://i.postimg.cc/rsHbPwtS/amiral-ariska-theme-demo.gif)](https://i.postimg.cc/rsHbPwtS/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Theme Demo](https://xp.io/storage/EaMrDhT.gif)](https://xp.io/storage/EaMrDhT.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
