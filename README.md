@@ -31,6 +31,35 @@ this font is free for programmer
 6. And now your theme has been changed
 > Note: If you want to use This color theme just follow this steps☝
 
+## Settings
+### How to Disable Bracket Pair Colorization in settings
+1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/AXCAcVu.gif)](https://xp.io/storage/AXCAcVu.gif)
+2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/B02K24T.gif)](https://xp.io/storage/B02K24T.gif)
+```jsonc
+{
+    "editor.bracketPairColorization.enabled": false,
+}
+```
+3. and now Bracket Pair Colorization is disabled
+## Keyboard Shortcuts
+### How To Set Preferences: Color Theme Keyboard Shortcuts
+1. To Open VSCODE Keyboard Shortcuts Settings Press `Ctrl+Shift+P` (on Windows) or `Cmd+Shift+P` (on Mac) To Open VSCODE Command Pallete
+[![VSCODE Keyboard Shortcuts Tutorial 1 - Color Theme](https://xp.io/storage/zaCgXCi.gif)](https://xp.io/storage/zaCgXCi.gif)
+2. Typing `Preferences: Open Keyboard Shortcuts`
+[![VSCODE Keyboard Shortcuts Tutorial 2 - Color Theme](https://xp.io/storage/zaJShic.gif)](https://xp.io/storage/zaJShic.gif)
+3. And Search `Preferences: Color Theme`
+[![VSCODE Keyboard Shortcuts Tutorial 3 - Color Theme](https://xp.io/storage/zb03ASa.gif)](https://xp.io/storage/zb03ASa.gif)
+4. Click on the pencil icon to edit keyboard shortcuts. Change Color Theme Keyboard Shortcuts. and then press `Ctrl+T` on your keyboard. then press enter
+[![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://xp.io/storage/AUbcMJg.gif)](https://xp.io/storage/AUbcMJg.gif)
+5. And now keyboard shortcuts has been changed
+## Other Keyboard Shortcuts Tips
+For more information About Amiral Ariska Theme Keyboard Shortcuts Tips<br>
+Click link down below<br>
+[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-theme-release/blob/amiral-ariska-theme-release/amiral-ariska-theme-keyboard-shortcuts-tips.md)
+> Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
+
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
 
