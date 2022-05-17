@@ -11,7 +11,7 @@ and this font name is "Fira Mono"
 [![Fira Mono - VSCODE Font Family](https://i.postimg.cc/0ySRBNMg/fira-mono-font.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
 click here👇<br>
 [Download Font Here](https://fonts.google.com/download?family=Fira%20Mono)<br>
-this font is free for programmer
+this font is free for programming
 
 ## Installation
 ### How To Install Color Theme Extension
@@ -34,25 +34,26 @@ this font is free for programmer
 ## Settings
 ### How to Disable Bracket Pair Colorization in settings
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
-[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/AXCAcVu.gif)](https://xp.io/storage/AXCAcVu.gif)
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/GEPGwfg.gif)](https://xp.io/storage/GEPGwfg.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/B02K24T.gif)](https://xp.io/storage/B02K24T.gif)
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
 }
 ```
 3. and now Bracket Pair Colorization is disabled
+
 ## Keyboard Shortcuts
 ### How To Set Preferences: Color Theme Keyboard Shortcuts
 1. To Open VSCODE Keyboard Shortcuts Settings Press `Ctrl+Shift+P` (on Windows) or `Cmd+Shift+P` (on Mac) To Open VSCODE Command Pallete
-[![VSCODE Keyboard Shortcuts Tutorial 1 - Color Theme](https://xp.io/storage/zaCgXCi.gif)](https://xp.io/storage/zaCgXCi.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 1 - Color Theme](https://xp.io/storage/H3ymSOD.gif)](https://xp.io/storage/H3ymSOD.gif)
 2. Typing `Preferences: Open Keyboard Shortcuts`
-[![VSCODE Keyboard Shortcuts Tutorial 2 - Color Theme](https://xp.io/storage/zaJShic.gif)](https://xp.io/storage/zaJShic.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 2 - Color Theme](https://xp.io/storage/H47orta.gif)](https://xp.io/storage/H47orta.gif)
 3. And Search `Preferences: Color Theme`
-[![VSCODE Keyboard Shortcuts Tutorial 3 - Color Theme](https://xp.io/storage/zb03ASa.gif)](https://xp.io/storage/zb03ASa.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 3 - Color Theme](https://xp.io/storage/H4bFW62.gif)](https://xp.io/storage/H4bFW62.gif)
 4. Click on the pencil icon to edit keyboard shortcuts. Change Color Theme Keyboard Shortcuts. and then press `Ctrl+T` on your keyboard. then press enter
-[![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://xp.io/storage/AUbcMJg.gif)](https://xp.io/storage/AUbcMJg.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://xp.io/storage/H4inNAG.gif)](https://xp.io/storage/H4inNAG.gif)
 5. And now keyboard shortcuts has been changed
 > Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
 ## Other Keyboard Shortcuts Tips
