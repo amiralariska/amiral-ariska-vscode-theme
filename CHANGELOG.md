@@ -23,9 +23,9 @@
 ## 0.0.3
 ### Update README
 - README Updates: Update VSCODE Theme Demo
-- README Updates: Update Settings Tips
-- README Updates: Update Keyboard Shortcuts Tips
-- README Updates: Update Other Keyboard Shortcuts Tips Link
+- README Updates: Add Keyboard Shortcuts Tips
+- README Updates: Add Settings Tips
+- README Updates: Add Other Keyboard Shortcuts Tips Link
 
 ### Update Images And GIF
 - Update VSCODE Theme Preview And GIF
