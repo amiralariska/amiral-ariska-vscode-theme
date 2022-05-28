@@ -58,14 +58,44 @@
                 "path": "./themes/amiral-ariska-light-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Dark Theme (Muted)",
+                "label": "Amiral Ariska Dark Theme(Muted)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/amiral-ariska-dark-muted-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Light Theme (Muted)",
+                "label": "Amiral Ariska Dark Theme(Blue Cyan)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-theme-blue-cyan/amiral-ariska-dark-theme-blue-cyan-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme(Blue Cyan)",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-theme-blue-cyan/amiral-ariska-light-theme-blue-cyan-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme(Muted)",
                 "uiTheme": "vs",
                 "path": "./themes/amiral-ariska-light-muted-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Dark Theme(Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-theme-blue/amiral-ariska-dark-blue-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme(Blue)",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-theme-blue/amiral-ariska-light-blue-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Dark Theme(Blue Muted)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-theme-blue/amiral-ariska-dark-blue-muted-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Theme(Blue Muted)",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-theme-blue/amiral-ariska-light-blue-muted-color-theme.json"
             }
         ]
     }

@@ -3,15 +3,16 @@
 	"name": "Amiral Ariska Dark Theme (Muted)",
 	"type": "dark",
 	"colors": {
+		"foreground": "#00ffff",
 		"focusBorder": "#0000ff",
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
-		"editor.selectionBackground": "#008585ef",
-		"editor.selectionHighlightBackground": "#008585ef",
+		"editor.selectionBackground": "#00a5a5df",
+		"editor.selectionHighlightBackground": "#00a5a5df",
 		"editor.inactiveSelectionBackground": "#003535",
 		"editor.lineHighlightBorder": "#00ffffaf",
 		"editor.lineHighlightBackground": "#00ffff50",
-		"editor.wordHighlightBackground": "#008585a5",
+		"editor.wordHighlightBackground": "#00a5a5cf",
 		"editorError.foreground": "#ff2525",
 		"editorWarning.foreground": "#ffff25",
 		"editorInfo.foreground": "#2525ff",
@@ -42,27 +43,29 @@
 		"tab.activeForeground": "#00ffff",
 		"tab.border": "#25252500",
 		"tab.activeBorder": "#00ffff",
-		"textLink.foreground": "#327dd7",
-		"textLink.activeForeground": "#0000ff",
+		"textLink.foreground": "#0000ff",
+		"textLink.activeForeground": "#0000cf",
 		"tree.indentGuidesStroke": "#00ffff",
 		"activityBar.background": "#050505",
 		"activityBar.foreground": "#00ffff",
 		"activityBar.inactiveForeground": "#00ffffa5",
 		"activityBarBadge.background": "#00efef",
-		"activityBarBadge.foreground": "#000000",
+		"activityBarBadge.foreground": "#0000ef",
 		"badge.background": "#00efef",
-		"badge.foreground": "#000000",
-		"button.background": "#00dfdf",
-		"button.foreground": "#000000",
+		"badge.foreground": "#0000ef",
+		"button.background": "#00efef",
+		"button.foreground": "#0000ff",
 		"button.hoverBackground": "#00cfcf",
-		"button.secondaryBackground": "#008585",
-		"button.secondaryForeground": "#000000",
-		"button.secondaryHoverBackground": "#00c5c5",
+		"button.secondaryBackground": "#00a5a5",
+		"button.secondaryForeground": "#0000ff",
+		"button.secondaryHoverBackground": "#008585",
 		"breadcrumb.background": "#050505",
 		"breadcrumb.foreground": "#00ffff",
 		"breadcrumb.focusForeground": "#00a5a5",
 		"breadcrumb.activeSelectionForeground": "#00cbcb",
 		"breadcrumbPicker.background": "#000000",
+		"checkbox.background": "#101010",
+		"checkbox.foreground": "#00ff00",
 		"debugToolBar.background": "#101010",
 		"dropdown.background": "#101010",
 		"dropdown.foreground": "#00ffff",
@@ -127,12 +130,11 @@
 		"panelTitle.activeBorder": "#00ffff",
 		"panelTitle.inactiveForeground": "#00cbcb",
 		"panelSectionHeader.background": "#00ffff",
-		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#00ffff",
 		"terminal.selectionBackground": "#008585",
 		"terminal.border": "#00ffff",
 		"pickerGroup.border": "#00ffff",
-		"pickerGroup.foreground": "#327dd7",
+		"pickerGroup.foreground": "#0000ff",
 		"peekViewTitle.background": "#050505",
 		"peekViewTitleLabel.foreground": "#00ffff",
 		"peekViewTitleDescription.foreground": "#00efef",
@@ -471,7 +473,7 @@
 			"name": "Entity Types",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#2575df"
 			}
 		},
 		{
@@ -523,20 +525,10 @@
 			}
 		},
 		{
-			"name": "Attributes",
+			"name": "HTML Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"foreground": "#00dfdf"
-			}
-		},
-		{
-			"name": "HTML Attributes",
-			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -741,10 +733,10 @@
 			}
 		},
 		{
-			"name": "Markdown - markup.inline.raw.string",
+			"name": "Markdown - Code String",
 			"scope": "markup.inline.raw.string",
 			"settings": {
-				"foreground": "#ff8500"
+				"foreground": "#25cfcf"
 			}
 		},
 		{
@@ -842,7 +834,7 @@
 			}
 		},
 		{
-			"name": "Markdown - Code Block",
+			"name": "Markdown - Code Block - Syntax Hightlighting",
 			"scope": ["punctuation.definition.markdown", "fenced_code.block.language"],
 			"settings": {
 				"foreground": "#0050ff"
@@ -859,7 +851,7 @@
 			"name": "Markdown - Separator",
 			"scope": "meta.separator",
 			"settings": {
-				"foreground": "#65737E", "fontStyle": "bold"
+				"foreground": "#00a5a5", "fontStyle": "bold"
 			}
 		},
 		{
