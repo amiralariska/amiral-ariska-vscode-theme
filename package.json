@@ -9,7 +9,8 @@
         "url": "https://github.com/amiralariska/amiral-ariska-theme"
     },
     "galleryBanner": {
-        "color": "#0000ff"
+        "color": "#0000ff",
+        "theme": "light"
     },
     "author": {
         "name": "Amiral Ariska"
