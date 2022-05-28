@@ -1,5 +1,10 @@
-[![Amiral Ariska Theme Demo](https://xp.io/storage/EaMrDhT.gif)](https://xp.io/storage/EaMrDhT.gif)
 # Amiral Ariska Theme For VSCODE
+## Amiral Ariska Theme Demo
+[![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://xp.io/storage/13fyTcBh.gif)
+## Amiral Ariska Theme Blue Demo
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/13g4zDln.gif)](https://xp.io/storage/13g4zDln.gif)
+## Amiral Ariska Theme Blue Cyan Demo
+[![Amiral Ariska Theme Blue Cyan Demo](https://xp.io/storage/13ghS6gs.gif)](https://xp.io/storage/13ghS6gs.gif)
 ## Font
 ### Font 1
 this font name is "Droid Sans Mono"
