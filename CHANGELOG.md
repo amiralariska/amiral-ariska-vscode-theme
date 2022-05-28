@@ -47,6 +47,9 @@
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update VSCODE Theme
 
+### Update Gallery Banner
+- Add light text theme
+
 ### Add New VSCODE Theme
 #### New Blue Theme
 - Add Amiral Ariska Dark Theme (Blue)
