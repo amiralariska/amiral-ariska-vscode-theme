@@ -40,11 +40,20 @@
 - README Updates: Update Keyboard Shortcuts Tips
 - README Updates: Update Other Keyboard Shortcuts Tips Link
 
+### Update Images And GIF
+- Update And Add New VSCODE Theme Preview
+- Update Animated GIF
+
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update VSCODE Theme
 
-### Add VSCODE Theme
+### Add New VSCODE Theme
+#### New Blue Theme
 - Add Amiral Ariska Dark Theme (Blue)
 - Add Amiral Ariska Light Theme (Blue)
 - Add Amiral Ariska Dark Theme (Blue Muted)
 - Add Amiral Ariska Light Theme (Blue Muted)
+
+#### New Blue And Cyan Theme
+- Add Amiral Ariska Dark Theme (Blue Cyan)
+- Add Amiral Ariska Light Theme (Blue Cyan)
