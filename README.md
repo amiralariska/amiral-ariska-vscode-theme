@@ -1,10 +1,10 @@
-# Amiral Ariska Theme For VSCODE
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://xp.io/storage/13fyTcBh.gif)
 ## Amiral Ariska Theme Blue Demo
 [![Amiral Ariska Theme Blue Demo](https://xp.io/storage/13g4zDln.gif)](https://xp.io/storage/13g4zDln.gif)
 ## Amiral Ariska Theme Blue Cyan Demo
 [![Amiral Ariska Theme Blue Cyan Demo](https://xp.io/storage/13ghS6gs.gif)](https://xp.io/storage/13ghS6gs.gif)
+# Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
 this font name is "Droid Sans Mono"
@@ -41,12 +41,12 @@ this font is free for programming
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
 [![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/GEPGwfg.gif)](https://xp.io/storage/GEPGwfg.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
 }
 ```
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 3. and now Bracket Pair Colorization is disabled
 
 ## Keyboard Shortcuts
