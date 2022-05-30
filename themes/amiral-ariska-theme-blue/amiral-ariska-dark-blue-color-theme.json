@@ -532,16 +532,6 @@
 			}
 		},
 		{
-			"name": "HTML Attributes",
-			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#FFCB6B"
-			}
-		},
-		{
 			"name": "CSS Classes And ID's",
 			"scope": [
 				"punctuation.definition.entity.css",
