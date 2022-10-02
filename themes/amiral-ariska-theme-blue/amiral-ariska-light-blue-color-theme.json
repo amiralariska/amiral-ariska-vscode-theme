@@ -296,7 +296,7 @@
 			"name": "bracket curly",
 			"scope": [
 				"punctuation.section.function", "punctuation.terminator.statement",
-				"punctuation.section", "punctuation.accessor"
+				"punctuation.accessor"
 			],
 			"settings": {
 				"foreground": "#dfdfdf"
@@ -306,7 +306,7 @@
 			"name": "CSS Curly Bracket, Round Bracket",
 			"scope":[
 				"punctuation.section.function.begin.bracket.round", "punctuation.section.function.end.bracket.round",
-				"punctuation.section.property-list"
+				"punctuation.section.property-list", "punctuation.section"
 			],
 			"settings": {
 				"foreground": "#0000ff"
