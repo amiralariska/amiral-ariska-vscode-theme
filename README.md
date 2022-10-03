@@ -1,7 +1,7 @@
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://xp.io/storage/13fyTcBh.gif)
 ## Amiral Ariska Theme Blue Demo
-[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/13g4zDln.gif)](https://xp.io/storage/13g4zDln.gif)
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://xp.io/storage/1m79BjfX.gif)
 ## Amiral Ariska Theme Blue Cyan Demo
 [![Amiral Ariska Theme Blue Cyan Demo](https://xp.io/storage/13ghS6gs.gif)](https://xp.io/storage/13ghS6gs.gif)
 # Amiral Ariska Theme For VSCODE
