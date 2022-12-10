@@ -56,7 +56,7 @@
             {
                 "label": "Amiral Ariska Light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/amiral-ariska-light-color-theme.json"
+                "path": "./themes/amiral-ariska-light-theme-color-theme.json"
             },
             {
                 "label": "Amiral Ariska Dark Theme(Cyan)",
