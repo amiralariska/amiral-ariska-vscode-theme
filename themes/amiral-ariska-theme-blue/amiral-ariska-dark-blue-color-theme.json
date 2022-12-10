@@ -170,7 +170,7 @@
 		"welcomePage.progress.foreground": "#0000ff",
 		"welcomePage.tileBackground": "#050505",
 		"welcomePage.tileHoverBackground": "#070707",
-		"welcomePage.tileShadow": "#0000ef",
+		"welcomePage.tileBorder": "#0000ef",
 		"walkThrough.embeddedEditorBackground": "#000000"
 	},
 	"tokenColors": [
@@ -220,10 +220,11 @@
 			}
 		},
 		{
-			"name": "Javascript Curly Bracket(Property, Function, Variable), Round Bracket(Function, Arrow Function), Square Bracket(Array)",
+			"name": "Javascript Brackets",
 			"scope": [
 				"punctuation.definition.block", "punctuation.definition.parameters",
-				"meta.brace.round.js", "meta.brace.square.js"
+				"meta.brace.round.js", "meta.brace.square.js",
+				"punctuation.definition.binding-pattern.array"
 			],
 			"settings": {
 				"foreground": "#0000ff"
@@ -303,7 +304,7 @@
 			}
 		},
 		{
-			"name": "CSS Curly Bracket, Round Bracket",
+			"name": "CSS Brackets",
 			"scope":[
 				"punctuation.section.function.begin.bracket.round", "punctuation.section.function.end.bracket.round",
 				"punctuation.section.property-list", "punctuation.section"

@@ -6,7 +6,7 @@
     "icon": "images/icon/amiral-ariska-logo.jpg",
     "repository": {
         "type": "git",
-        "url": "https://github.com/amiralariska/amiral-ariska-theme"
+        "url": "https://github.com/amiralariska/amiral-ariska-vscode-theme"
     },
     "galleryBanner": {
         "color": "#0000ff",
@@ -51,7 +51,7 @@
             {
                 "label": "Amiral Ariska Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/amiral-ariska-dark-color-theme.json"
+                "path": "./themes/amiral-ariska-dark-theme-color-theme.json"
             },
             {
                 "label": "Amiral Ariska Light Theme",
@@ -59,24 +59,24 @@
                 "path": "./themes/amiral-ariska-light-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Dark Theme(Muted)",
+                "label": "Amiral Ariska Dark Theme(Cyan)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/amiral-ariska-dark-muted-color-theme.json"
+                "path": "./themes/amiral-ariska-theme-cyan/amiral-ariska-dark-cyan-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Dark Theme(Blue Cyan)",
+                "label": "Amiral Ariska Light Theme(Cyan)",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-theme-cyan/amiral-ariska-light-cyan-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Dark Theme(Cyan Muted)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/amiral-ariska-theme-blue-cyan/amiral-ariska-dark-theme-blue-cyan-color-theme.json"
+                "path": "./themes/amiral-ariska-theme-cyan/amiral-ariska-dark-cyan-muted-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Light Theme(Blue Cyan)",
+                "label": "Amiral Ariska Light Theme(Cyan Muted)",
                 "uiTheme": "vs",
-                "path": "./themes/amiral-ariska-theme-blue-cyan/amiral-ariska-light-theme-blue-cyan-color-theme.json"
-            },
-            {
-                "label": "Amiral Ariska Light Theme(Muted)",
-                "uiTheme": "vs",
-                "path": "./themes/amiral-ariska-light-muted-color-theme.json"
+                "path": "./themes/amiral-ariska-theme-cyan/amiral-ariska-light-cyan-muted-color-theme.json"
             },
             {
                 "label": "Amiral Ariska Dark Theme(Blue)",

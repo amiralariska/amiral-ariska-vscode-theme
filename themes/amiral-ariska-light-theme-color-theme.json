@@ -170,7 +170,7 @@
 		"welcomePage.progress.foreground": "#0000ff",
 		"welcomePage.tileBackground": "#f0f0f0",
 		"welcomePage.tileHoverBackground": "#e7e7e7",
-		"welcomePage.tileShadow": "#00efef",
+		"welcomePage.tileBorder": "#00efef",
 		"walkThrough.embeddedEditorBackground": "#ffffff"
 	},
 	"tokenColors": [
@@ -223,7 +223,8 @@
 			"name": "Javascript Curly Bracket(Property, Function, Variable), Round Bracket(Function, Arrow Function), Square Bracket(Array)",
 			"scope": [
 				"punctuation.definition.block", "punctuation.definition.parameters",
-				"meta.brace.round.js", "meta.brace.square.js"
+				"meta.brace.round.js", "meta.brace.square.js",
+				"punctuation.definition.binding-pattern.array"
 			],
 			"settings": {
 				"foreground": "#00ffff"
