@@ -115,3 +115,7 @@
 
 ### Update Gallery Banner
 - Update text theme
+
+## 0.1.1
+### README Updates
+- Update links
