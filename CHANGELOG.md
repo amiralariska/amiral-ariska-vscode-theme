@@ -108,3 +108,10 @@
 ## 0.0.9
 ### Update File
 - Update package.json file
+
+## 0.1.0
+### README Updates
+- Update release link
+
+### Update Gallery Banner
+- Update text theme
