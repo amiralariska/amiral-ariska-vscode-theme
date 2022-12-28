@@ -72,6 +72,6 @@ Click link down below<br>
 ## About Amiral Ariska Theme Release
 For more information About Amiral Ariska Theme Release<br>
 Click link down below<br>
-[Amiral Ariska Theme Release](https://github.com/amiralariska/amiral-ariska-theme-release)
+[Amiral Ariska Theme Release](https://github.com/amiralariska/amiral-ariska-vscode-theme-release)
 
 **Thank You For Using This Color Theme**
