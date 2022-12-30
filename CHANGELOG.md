@@ -21,7 +21,7 @@
 - VSCODE Theme Extension Updates: Add Gallery Banner Background Color
 
 ## 0.0.3
-### Update README
+### README Updates
 - README Updates: Update VSCODE Theme Demo
 - README Updates: Add Keyboard Shortcuts Tips
 - README Updates: Add Settings Tips
@@ -34,7 +34,7 @@
 - VSCODE Theme Updates: Update VSCODE Theme
 
 ## 0.0.4
-### Update README
+### README Updates
 - README Updates: Update VSCODE Theme Demo
 - README Updates: Update Settings Tips
 - README Updates: Update Keyboard Shortcuts Tips
@@ -62,7 +62,7 @@
 - Add Amiral Ariska Light Theme (Blue Cyan)
 
 ## 0.0.5
-### Update README
+### README Updates
 - README Updates: Update README.md file
 
 ## 0.0.6
@@ -70,9 +70,9 @@
 - VSCODE Theme Updates: Update Amiral Ariska Theme(Blue)
 
 ## 0.0.7
-### Update README
+### README Updates
 - README Updates: Update animated gif
-- README Updates: Update README.md file
+- README Updates: README Updates.md file
 
 ### Note
 - Note: New VSCODE Theme Updates
@@ -88,13 +88,12 @@
 ![Before And After Amiral Ariska Dark Theme(Blue)](https://xp.io/storage/1mkyyhgd.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue) now has been changed to blue
 
-
 ### Update VSCODE Theme Preview And GIF
 - VSCODE Theme Preview And GIF Updates: Update VSCODE Theme Preview
 - VSCODE Theme Preview And GIF Updates: Update GIF
 
 ## 0.0.8
-### Update README
+### README Updates
 - README Updates: Update README.md file
 
 ### Update VSCODE Theme
@@ -119,3 +118,10 @@
 ## 0.1.1
 ### README Updates
 - Update links
+
+## 0.1.2
+### README Updates
+- README Updates: Update VSCODE Theme Demo
+- README Updates: Update VSCODE Font Family Preview
+- README Updates: Update Settings Tips
+- README Updates: Update Keyboard Shortcuts Tips
