@@ -135,3 +135,7 @@
 
 ### LICENSE
 - Add LICENSE
+
+## 0.1.4
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update Amiral Ariska Light Theme
