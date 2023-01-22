@@ -46,7 +46,7 @@
 		"commandCenter.background": "#f5f5f5",
 		"commandCenter.foreground": "#00ffff",
 		"commandCenter.activeBackground": "#0000c5a5",
-		"commandCenter.activeForeground": "#00ffff",
+		"commandCenter.activeForeground": "#0000ff",
 		"commandCenter.inactiveForeground": "#0000db",
 		"commandCenter.border": "#0000ff",
 		"commandCenter.activeBorder": "#00ffff",
