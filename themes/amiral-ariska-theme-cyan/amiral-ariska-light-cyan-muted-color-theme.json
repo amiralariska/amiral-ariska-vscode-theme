@@ -9,7 +9,7 @@
 		"editor.foreground": "#000000",
 		"editor.selectionBackground": "#00a5a5cf",
 		"editor.selectionHighlightBackground": "#00a5a5cf",
-		"editor.inactiveSelectionBackground": "#003535",
+		"editor.inactiveSelectionBackground": "#00a5a5af",
 		"editor.lineHighlightBorder": "#00ffffaf",
 		"editor.lineHighlightBackground": "#00ffff50",
 		"editor.wordHighlightBackground": "#00a5a5c5",
@@ -28,15 +28,29 @@
 		"editorSuggestWidget.background": "#f5f5f5",
 		"editorSuggestWidget.foreground": "#00ffff",
 		"editorSuggestWidget.border": "#00ffffa5",
-		"editorBracketMatch.border": "#a5a5a5",
+		"editorBracketMatch.border": "#00a5a5",
 		"editorMarkerNavigation.background": "#050505",
 		"editorMarkerNavigationError.background": "#ff2525",
 		"editorMarkerNavigationWarning.background": "#ffff25",
 		"editorMarkerNavigationInfo.background": "#2525ff",
+		"editorMarkerNavigationError.headerBackground": "#ff252575",
+		"editorMarkerNavigationWarning.headerBackground": "#ffff2575",
+		"editorMarkerNavigationInfo.headerBackground": "#2525ff75",
+		"banner.background": "#0000ff",
+		"banner.foreground": "#00ffff",
+		"banner.iconForeground": "#00ffff",
 		"titleBar.activeBackground": "#050505",
 		"titleBar.activeForeground": "#00ffff",
 		"titleBar.inactiveBackground": "#020202",
 		"titleBar.inactiveForeground": "#00cbcb",
+		"commandCenter.background": "#f5f5f5",
+		"commandCenter.foreground": "#00ffff",
+		"commandCenter.activeBackground": "#0000c5a5",
+		"commandCenter.activeForeground": "#00ffff",
+		"commandCenter.inactiveForeground": "#0000db",
+		"commandCenter.border": "#0000ff",
+		"commandCenter.activeBorder": "#00ffff",
+		"commandCenter.inactiveBorder": "#0000cb",
 		"tab.inactiveBackground": "#efefef",
 		"tab.inactiveForeground": "#00cbcb",
 		"tab.activeBackground": "#ffffff",
@@ -171,7 +185,14 @@
 		"welcomePage.tileBackground": "#f0f0f0",
 		"welcomePage.tileHoverBackground": "#e7e7e7",
 		"welcomePage.tileBorder": "#00dfdf",
-		"walkThrough.embeddedEditorBackground": "#ffffff"
+		"walkThrough.embeddedEditorBackground": "#ffffff",
+		"walkthrough.stepTitle.foreground": "#00ffff",
+		"extensionIcon.verifiedForeground": "#0000ff",
+		"extensionIcon.starForeground": "#dfdf25",
+		"extensionIcon.preReleaseForeground": "#00a500",
+		"extensionBadge.remoteBackground": "#00a500",
+		"extensionBadge.remoteForeground": "#0000ff",
+		"extensionIcon.sponsorForeground": "#df50a5"
 	},
 	"tokenColors": [
 		{
@@ -708,8 +729,8 @@
 		{
 			"name": "Markup - Bold",
 			"scope": [
-				"markup.bold",
-				"markup.bold string", "punctuation.definition.bold.markdown"
+				"markup.bold", "markup.bold string",
+				"punctuation.definition.bold.markdown"
 			],
 			"settings": {
 				"foreground": "#0060FF", "fontStyle": "bold"

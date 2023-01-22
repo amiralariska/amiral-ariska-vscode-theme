@@ -28,15 +28,29 @@
 		"editorSuggestWidget.background": "#050505",
 		"editorSuggestWidget.foreground": "#0000ff",
 		"editorSuggestWidget.border": "#0000ffa5",
-		"editorBracketMatch.border": "#a5a5a5",
+		"editorBracketMatch.border": "#0000a5",
 		"editorMarkerNavigation.background": "#050505",
 		"editorMarkerNavigationError.background": "#ff2525",
 		"editorMarkerNavigationWarning.background": "#ffff25",
 		"editorMarkerNavigationInfo.background": "#2525ff",
+		"editorMarkerNavigationError.headerBackground": "#ff252575",
+		"editorMarkerNavigationWarning.headerBackground": "#ffff2575",
+		"editorMarkerNavigationInfo.headerBackground": "#2525ff75",
+		"banner.background": "#0000ff",
+		"banner.foreground": "#00ffff",
+		"banner.iconForeground": "#00ffff",
 		"titleBar.activeBackground": "#050505",
 		"titleBar.activeForeground": "#0000ff",
 		"titleBar.inactiveBackground": "#020202",
 		"titleBar.inactiveForeground": "#0000cb",
+		"commandCenter.background": "#050505",
+		"commandCenter.foreground": "#00ffff",
+		"commandCenter.activeBackground": "#0000c5a5",
+		"commandCenter.activeForeground": "#00ffff",
+		"commandCenter.inactiveForeground": "#0000db",
+		"commandCenter.border": "#0000ff",
+		"commandCenter.activeBorder": "#00ffff",
+		"commandCenter.inactiveBorder": "#0000cb",
 		"tab.inactiveBackground": "#050505",
 		"tab.inactiveForeground": "#00cbcb",
 		"tab.activeBackground": "#000000",
@@ -171,7 +185,14 @@
 		"welcomePage.tileBackground": "#050505",
 		"welcomePage.tileHoverBackground": "#070707",
 		"welcomePage.tileBorder": "#00efef",
-		"walkThrough.embeddedEditorBackground": "#000000"
+		"walkThrough.embeddedEditorBackground": "#000000",
+		"walkthrough.stepTitle.foreground": "#0000ff",
+		"extensionIcon.verifiedForeground": "#00ffff",
+		"extensionIcon.starForeground": "#dfdf25",
+		"extensionIcon.preReleaseForeground": "#00a500",
+		"extensionBadge.remoteBackground": "#00a500",
+		"extensionBadge.remoteForeground": "#0000ff",
+		"extensionIcon.sponsorForeground": "#df50a5"
 	},
 	"tokenColors": [
 		{
@@ -708,8 +729,8 @@
 		{
 			"name": "Markup - Bold",
 			"scope": [
-				"markup.bold",
-				"markup.bold string", "punctuation.definition.bold.markdown"
+				"markup.bold", "markup.bold string", 
+				"punctuation.definition.bold.markdown"
 			],
 			"settings": {
 				"foreground": "#0065FF", "fontStyle": "bold"
