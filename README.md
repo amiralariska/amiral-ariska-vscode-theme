@@ -1,9 +1,11 @@
 ## Amiral Ariska Theme Demo
-[![Amiral Ariska Theme Demo](https://xp.io/storage/13ghS6gs.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+[![Amiral Ariska Theme Demo](https://xp.io/storage/1I7LQqUT.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+## Amiral Ariska Theme V2 Demo
+[![Amiral Ariska V2 Theme Demo](https://xp.io/storage/1I7P9J0j.gif)]()
 ## Amiral Ariska Theme Blue Demo
-[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1m79BjfX.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1I7Sr9uy.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
-[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/1I7WSQ2Q.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
