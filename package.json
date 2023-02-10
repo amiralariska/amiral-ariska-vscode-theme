@@ -59,14 +59,14 @@
                 "path": "./themes/amiral-ariska-light-theme-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Dark Theme V2(Experimental)",
+                "label": "Amiral Ariska Dark Theme V2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/amiral-ariska-theme-color-theme-v2/amiral-ariska-dark-theme-v2-color-theme.json"
+                "path": "./themes/amiral-ariska-theme-v2/amiral-ariska-dark-theme-v2-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Light Theme V2(Experimental)",
+                "label": "Amiral Ariska Light Theme V2",
                 "uiTheme": "vs",
-                "path": "./themes/amiral-ariska-theme-color-theme-v2/amiral-ariska-light-theme-v2-color-theme.json"
+                "path": "./themes/amiral-ariska-theme-v2/amiral-ariska-light-theme-v2-color-theme.json"
             },
             {
                 "label": "Amiral Ariska Dark Theme(Cyan)",
