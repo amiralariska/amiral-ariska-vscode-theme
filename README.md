@@ -71,14 +71,14 @@ this font is free for programming
 ## Other Keyboard Shortcuts Tips
 For more information About Amiral Ariska Theme Keyboard Shortcuts Tips<br>
 Click link down below<br>
-[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-vscode-theme-release/blob/amiral-ariska-theme-release/amiral-ariska-theme-keyboard-shortcuts-tips.md)
+[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-vscode-theme-steps/blob/amiral-ariska-theme-steps/amiral-ariska-theme-release-date.md)
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
 
-## About Amiral Ariska Theme Release
-For more information About Amiral Ariska Theme Release<br>
+## About Amiral Ariska Theme Steps
+For more information About Amiral Ariska Theme Steps<br>
 Click link down below<br>
-[Amiral Ariska Theme Release](https://github.com/amiralariska/amiral-ariska-vscode-theme-release)
+[Amiral Ariska Theme Steps](https://github.com/amiralariska/amiral-ariska-vscode-theme-steps)
 
 **Thank You For Using This Color Theme**
