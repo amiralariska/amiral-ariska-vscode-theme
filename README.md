@@ -71,7 +71,7 @@ this font is free for programming
 ## Other Keyboard Shortcuts Tips
 For more information About Amiral Ariska Theme Keyboard Shortcuts Tips<br>
 Click link down below<br>
-[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-vscode-theme-steps/blob/amiral-ariska-theme-steps/amiral-ariska-theme-release-date.md)
+[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-vscode-theme/blob/amiral-ariska-theme/amiral-ariska-theme-release-date.md)
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
