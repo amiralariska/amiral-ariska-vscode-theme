@@ -69,6 +69,8 @@
 		"activityBar.inactiveForeground": "#00ffffa5",
 		"activityBarBadge.background": "#00efef",
 		"activityBarBadge.foreground": "#0000ef",
+		"profileBadge.background": "#00efef",
+		"profileBadge.foreground": "#0000ef",
 		"badge.background": "#00efef",
 		"badge.foreground": "#0000ef",
 		"button.background": "#00dfdf",

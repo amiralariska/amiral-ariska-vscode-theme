@@ -131,6 +131,8 @@
 		"statusBarItem.remoteForeground": "#0000ff",
 		"statusBar.noFolderBackground": "#000065",
 		"statusBar.noFolderForeground": "#00ffff",
+		"profileBadge.background": "#00ffff",
+		"profileBadge.foreground": "#0000ff",
 		"scrollbar.shadow": "#0000ef",
 		"scrollbarSlider.background": "#0000ffa5",
 		"scrollbarSlider.hoverBackground": "#0000ff50",
