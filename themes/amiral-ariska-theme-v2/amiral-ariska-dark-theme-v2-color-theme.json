@@ -130,7 +130,7 @@
 		"statusBarItem.remoteBackground": "#00a500",
 		"statusBarItem.remoteForeground": "#0000ff",
 		"statusBar.noFolderBackground": "#000065",
-		"statusBar.noFolderForeground": "#0000ff",
+		"statusBar.noFolderForeground": "#00ffff",
 		"scrollbar.shadow": "#0000ef",
 		"scrollbarSlider.background": "#0000ffa5",
 		"scrollbarSlider.hoverBackground": "#0000ff50",
