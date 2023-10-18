@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://i.postimg.cc/fLGLx2J4/amiral-ariska-circle-logo.png">
-        <img src="https://i.postimg.cc/fLGLx2J4/amiral-ariska-circle-logo.png" alt="Amiral Ariska Logo">
+    <a href="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-circle-logo.png">
+        <img src="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-circle-logo.png" alt="Amiral Ariska Logo">
     </a>
     <h1 align="center">Amiral Ariska Theme Version For VSCODE</h1>
     <p align="center">The History Version Of Amiral Ariska Theme</p>
@@ -233,3 +233,7 @@
 ### Forgot Changelog
 - Forgot Changelog😅
 - Amiral Ariska Theme version [v0.2.2](#022) to v0.2.3
+
+## 0.2.4
+### Update README
+- Fix Image not showing again
