@@ -1,16 +1,16 @@
-## New V2 Theme Preview
-> 💡 New V2 Theme is Coming to Experimental Theme Features
+## New Modern Theme Preview
+> 💡 New Modern Theme Replaces v2 theme for the modern theme
 
-[![Amiral Ariska V2 Theme Preview](https://xp.io/storage/24Rpr929.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-v2-themes.jpg)
-Try out the new amiral ariska v2 theme for a nice look.
+[![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-modern-themes.jpg)
+Try out the new amiral ariska Modern theme for a nice look.
 ## Amiral Ariska Theme Demo
-[![Amiral Ariska Theme Demo](https://xp.io/storage/1I7LQqUT.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
-## Amiral Ariska Theme V2 Demo
-[![Amiral Ariska V2 Theme Demo](https://xp.io/storage/1I7P9J0j.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-v2/amiral-ariska-theme-v2-demo.gif)
+[![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+## Amiral Ariska Theme Modern Demo
+[![Amiral Ariska Modern Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-modern/amiral-ariska-theme-modern-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-modern/amiral-ariska-theme-modern-demo.gif)
 ## Amiral Ariska Theme Blue Demo
-[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/1I7Sr9uy.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
+[![Amiral Ariska Theme Blue Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
-[![Amiral Ariska Cyan Theme Demo](https://xp.io/storage/1I7WSQ2Q.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Cyan Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
