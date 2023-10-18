@@ -208,3 +208,28 @@
 - Add Git Decoration: Add Git Ignored Decoration
 - Add Git Decoration: Add Git Submodule Decoration
 - Add Git Decoration: Add Git Merge Conflict Decoration
+
+## 0.2.1
+### Update VSCODE Theme Preview
+- Amiral Ariska Modern Theme Preview
+### Update VSCODE Theme
+- Rename amiral-ariska-dark-theme-v2-color-theme to amiral-ariska-dark-theme-modern-color-theme
+- Rename file amiral-ariska-light-theme-v2-color-theme to amiral-ariska-light-theme-modern-color-theme
+- Rename Amiral Ariska Dark Theme V2(Experimental) to Amiral Ariska Dark Theme Modern
+- Rename Amiral Ariska Light Theme V2(Experimental) to Amiral Ariska Light Theme Modern
+### Update VSCODE Theme Preview
+- Update Amiral Ariska Modern Theme Preview
+- Update Amiral Ariska Modern Theme Demo
+### Update README
+- Update VSCODE Theme Demo Preview
+### Update VSCODE Theme Preview
+- Amiral Ariska Modern Theme Preview
+
+## 0.2.2
+### Update README
+- Fix Image not showing
+
+## 0.2.3
+### Forgot Changelog
+- Forgot Changelog😅
+- Amiral Ariska Theme version [v0.2.2](#022) to v0.2.3
