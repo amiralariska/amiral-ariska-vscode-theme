@@ -10,7 +10,7 @@ Try out the new amiral ariska modern theme for a nice look.
 ## Amiral Ariska Theme Blue Demo
 [![Amiral Ariska Theme Blue Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue/amiral-ariska-theme-blue-demo.gif)
 ## Amiral Ariska Theme Cyan Demo
-[![Amiral Ariska Cyan Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Cyan Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-cyan/amiral-ariska-theme-cyan-demo.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
