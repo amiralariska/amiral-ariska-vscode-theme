@@ -237,3 +237,7 @@
 ## 0.2.4
 ### Update README
 - Fix Image not showing again
+
+## 0.2.5
+### Update VSCODE Theme
+- Update All VSCODE Theme
