@@ -254,3 +254,6 @@
 - Amiral Ariska VSCODE Theme Release Date Updated
 ### Images And GIF Added
 - Added Images And GIF For VSCODE Theme Tutorial
+### Update VSCODE Theme Icons And Changelog Logo
+- Updated Profile Picture Logo(VSCODE Theme Icons)
+- Updated Profile Picture Circle Logo(Changelog Logo)
