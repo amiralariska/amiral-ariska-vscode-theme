@@ -165,8 +165,6 @@
 - Add Amiral Ariska Light Theme V2 in Amiral Ariska Theme Release Date List 
 
 ### Update And Add New VSCODE Theme
-### New V2 Theme Preview
-[![Amiral Ariska V2 Theme Preview](https://xp.io/storage/24Rpr929.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-v2-themes/amiral-ariska-v2-themes.jpg)
 #### New V2 Theme
 - VSCODE Theme Added: Add Amiral Ariska Dark Theme V2
 - VSCODE Theme Added: Add Amiral Ariska Light Theme V2
@@ -261,3 +259,10 @@
 ## 0.3.1
 ### Update VSCODE Theme
 - Change Old Profile Picture Circle Logo And Added New Profile Picture Circle Logo(Changelog Logo)
+
+## 0.3.2
+### New Modern Theme Preview
+[![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)
+#### New Modern Theme
+- VSCODE Theme Added: Add Amiral Ariska Dark Theme Modern
+- VSCODE Theme Added: Add Amiral Ariska Light Theme Modern
