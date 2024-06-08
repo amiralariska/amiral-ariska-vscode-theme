@@ -9,7 +9,7 @@
 		"editor.foreground": "#000000",
 		"editor.selectionBackground": "#0000a5df",
 		"editor.selectionHighlightBackground": "#0000a5df",
-		"editor.inactiveSelectionBackground": "#0000a5bf",
+		"editor.inactiveSelectionBackground": "#000085df",
 		"editor.lineHighlightBorder": "#0000ffaf",
 		"editor.lineHighlightBackground": "#0000ff50",
 		"editor.wordHighlightBackground": "#0000a5cf",
@@ -216,12 +216,12 @@
 		"welcomePage.tileBorder": "#00efef",
 		"walkThrough.embeddedEditorBackground": "#ffffff",
 		"walkthrough.stepTitle.foreground": "#0000ff",
-		"extensionIcon.verifiedForeground": "#00ffff",
-		"extensionIcon.starForeground": "#dfdf25",
-		"extensionIcon.preReleaseForeground": "#00a500",
+		"extensionIcon.verifiedForeground": "#0085fffa",
+		"extensionIcon.starForeground": "#dfdf25fa",
+		"extensionIcon.preReleaseForeground": "#00a500fa",
 		"extensionBadge.remoteBackground": "#00a500",
 		"extensionBadge.remoteForeground": "#0000ff",
-		"extensionIcon.sponsorForeground": "#df50a5"
+		"extensionIcon.sponsorForeground": "#df50a5fa"
 	},
 	"tokenColors": [
 		{
