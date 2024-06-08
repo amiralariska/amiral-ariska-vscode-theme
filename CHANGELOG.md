@@ -241,3 +241,16 @@
 ## 0.2.5
 ### Update VSCODE Theme
 - Update All VSCODE Theme
+
+## 0.3.0
+### Update VSCODE Theme
+- Update All VSCODE Theme
+### Update README
+- Updated Blockquote
+- Fixed Images And GIF not showing
+### Update Amiral Ariska Theme Release Date
+- Change Amiral Ariska Dark Theme V2 to Amiral Ariska Dark Theme Modern
+- Change Amiral Ariska Light Theme V2 to Amiral Ariska Light Theme Modern
+- Amiral Ariska VSCODE Theme Release Date Updated
+### Images And GIF Added
+- Added Images And GIF For VSCODE Theme Tutorial
