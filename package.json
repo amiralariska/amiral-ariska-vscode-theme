@@ -3,7 +3,7 @@
     "displayName": "Amiral Ariska Theme",
     "description": "Offical Amiral Ariska Theme",
     "publisher": "amiralariska",
-    "icon": "images/icon/amiral-ariska-logo.jpg",
+    "icon": "images/icon/amiral-ariska-vscode-theme-logo.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/amiralariska/amiral-ariska-vscode-theme"
