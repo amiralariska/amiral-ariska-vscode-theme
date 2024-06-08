@@ -15,12 +15,12 @@ Try out the new amiral ariska modern theme for a nice look.
 ## Font
 ### Font 1
 this font name is "Droid Sans Mono"
-[![Droid Sans Mono - VSCODE Font Family](https://xp.io/storage/zBdUWNf.jpg)](https://www.1001fonts.com/droid-sans-mono-font.html)
+[![Droid Sans Mono - VSCODE Font Family](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/droid-sans-mono-font.jpg)](https://www.1001fonts.com/droid-sans-mono-font.html)
 click here👇<br>
 [Download Font Here](https://www.1001fonts.com/download/droid-sans-mono.zip)
 ### Font 2
 and this font name is "Fira Mono"
-[![Fira Mono - VSCODE Font Family](https://xp.io/storage/zB8NBGM.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
+[![Fira Mono - VSCODE Font Family](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/fira-mono-font.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
 click here👇<br>
 [Download Font Here](https://fonts.google.com/download?family=Fira%20Mono)<br>
 this font is free for programming
@@ -46,26 +46,26 @@ this font is free for programming
 ## Settings
 ### How to Disable Bracket Pair Colorization in settings
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
-[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/EzOJI4y.gif)](https://xp.io/storage/EzOJI4y.gif)
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-1.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-1.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
 }
 ```
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/EzUsvYT.gif)](https://xp.io/storage/EzUsvYT.gif)
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-bracket-pair-colorization-settings-tutorial/vscode-bracket-pair-colorization-settings-tutorial-2.gif)
 3. and now Bracket Pair Colorization is disabled
 
 ## Keyboard Shortcuts
 ### How To Set Preferences: Color Theme Keyboard Shortcuts
 1. To Open VSCODE Keyboard Shortcuts Settings Press `Ctrl+Shift+P` (on Windows) or `Cmd+Shift+P` (on Mac) To Open VSCODE Command Pallete
-[![VSCODE Keyboard Shortcuts Tutorial 1 - Color Theme](https://xp.io/storage/FZkeypp.gif)](https://xp.io/storage/FZkeypp.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 1 - Color Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-1.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-1.gif)
 2. Typing `Preferences: Open Keyboard Shortcuts`
-[![VSCODE Keyboard Shortcuts Tutorial 2 - Color Theme](https://xp.io/storage/FZrx1kz.gif)](https://xp.io/storage/FZrx1kz.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 2 - Color Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-2.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-2.gif)
 3. And Search `Preferences: Color Theme`
-[![VSCODE Keyboard Shortcuts Tutorial 3 - Color Theme](https://xp.io/storage/FZxQle9.gif)](https://xp.io/storage/FZxQle9.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 3 - Color Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-3.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-3.gif)
 4. Click on the pencil icon to edit keyboard shortcuts. Change Color Theme Keyboard Shortcuts. and then press `Ctrl+T` on your keyboard. then press enter
-[![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://xp.io/storage/FZCveXy.gif)](https://xp.io/storage/FZCveXy.gif)
+[![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-4.gif)
 5. And now keyboard shortcuts has been changed
 > Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
 ## Other Keyboard Shortcuts Tips
