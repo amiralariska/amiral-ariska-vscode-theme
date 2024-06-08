@@ -1,5 +1,5 @@
 ## New Modern Theme Preview
-> 💡 New Modern Theme Replaces v2 theme for the modern theme
+> 💡 New Modern Theme Replace V2 theme for Modern Theme
 
 [![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)
 Try out the new amiral ariska modern theme for a nice look.
