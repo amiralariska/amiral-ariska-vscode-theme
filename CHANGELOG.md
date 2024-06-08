@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-circle-logo.png">
-        <img src="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-circle-logo.png" alt="Amiral Ariska Logo">
+    <a href="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-vscode-theme-circle-logo.png">
+        <img src="https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/icon/amiral-ariska-vscode-theme-circle-logo.png" alt="Amiral Ariska Logo">
     </a>
     <h1 align="center">Amiral Ariska Theme Version For VSCODE</h1>
     <p align="center">The History Version Of Amiral Ariska Theme</p>
@@ -257,3 +257,7 @@
 ### Update VSCODE Theme Icons And Changelog Logo
 - Updated Profile Picture Logo(VSCODE Theme Icons)
 - Updated Profile Picture Circle Logo(Changelog Logo)
+
+## 0.3.1
+### Update VSCODE Theme
+- Change Old Profile Picture Circle Logo And Added New Profile Picture Circle Logo(Changelog Logo)
