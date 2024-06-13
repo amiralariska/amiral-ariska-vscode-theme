@@ -79,13 +79,13 @@
 
 ### Before And After
 #### Before And After Preview
-![Before And After Amiral Ariska Dark Theme(Cyan)](https://xp.io/storage/1mlGhP52.jpg)
+![Before And After Amiral Ariska Dark Theme(Cyan)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/amiral-ariska-theme-before-after/amiral-ariska-theme-before-after.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Cyan) now has been changed to cyan
 
-![Before And After Amiral Ariska Dark Theme(Blue Cyan)](https://xp.io/storage/1minUbtQ.jpg)
+![Before And After Amiral Ariska Dark Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/amiral-ariska-theme-before-after/amiral-ariska-theme-before-after-blue.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue Cyan) now has been changed to cyan
 
-![Before And After Amiral Ariska Dark Theme(Blue)](https://xp.io/storage/1mkyyhgd.jpg)
+![Before And After Amiral Ariska Dark Theme(Blue)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/amiral-ariska-theme-before-after/amiral-ariska-theme-before-after-cyan.jpg)
 - A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue) now has been changed to blue
 
 ### Update VSCODE Theme Preview And GIF
@@ -266,3 +266,7 @@
 #### New Modern Theme
 - VSCODE Theme Added: Add Amiral Ariska Dark Theme Modern
 - VSCODE Theme Added: Add Amiral Ariska Light Theme Modern
+
+## 0.3.3
+### GIF Added
+- Added GIF For VSCODE Theme Before And After(Changelog)
