@@ -270,3 +270,8 @@
 ## 0.3.3
 ### GIF Added
 - Added GIF For VSCODE Theme Before And After(Changelog)
+
+## 0.3.4
+### Update VSCODE Theme Icons And Changelog Logo
+- Updated Profile Picture Logo(VSCODE Theme Icons)
+- Updated Profile Picture Circle Logo(Changelog Logo)
