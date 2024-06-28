@@ -275,3 +275,10 @@
 ### Update VSCODE Theme Icons And Changelog Logo
 - Updated Profile Picture Logo(VSCODE Theme Icons)
 - Updated Profile Picture Circle Logo(Changelog Logo)
+
+## 0.3.5
+### Update README
+- README Updates: Replace this font name is "Droid Sans Mono" to this font is called "Droid Sans Mono"
+- README Updates: Replace this font name is "Fira Mono" to this font is called "Fira Mono"
+### Update VSCODE Theme Keyword
+- Add "Amiral Ariska Dark Modern Theme", "Amiral Ariska Light Modern Theme", "amiral ariska dark theme modern", "amiral ariska light theme modern", "codeAmiral Theme", "codeAmiral theme", "VSCODE Dark Modern Theme", "VSCODE Light Modern Theme", "vscode dark modern theme", "vscode light modern theme", "Dark Modern Theme", "Light Modern Theme", "dark modern theme" and "light modern theme" keyword For VSCODE Theme
