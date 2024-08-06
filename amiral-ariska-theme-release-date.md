@@ -13,3 +13,8 @@
 | 10  | Amiral Ariska Light Theme (Blue Cyan)  | May 28, 2022  |
 | 11  |    Amiral Ariska Dark Theme Modern     |  May 8, 2024  |
 | 12  |    Amiral Ariska Light Theme Modern    |  May 8, 2024  |
+# Coming Soon to Amiral Ariska VSCODE Theme
+| No  |         VSCODE Theme Name         |  Release Date   |
+| :-: | :-------------------------------: | :-------------: |
+|  1  | Amiral Ariska Dark Classic Theme  | August 13, 2022 |
+|  2  | Amiral Ariska Light Classic Theme | August 13, 2022 |
