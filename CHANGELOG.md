@@ -286,3 +286,7 @@
 ## 0.3.6
 ### Update VSCODE Theme Description
 - Fix misspelling "Offical" of "Official" Description For VSCODE Theme
+
+## 0.3.7⏳
+### Coming Soon to The New Amiral Ariska VSCODE Theme
+- Amiral Ariska Dark And Light Classic Theme will release on August 23, 2022
