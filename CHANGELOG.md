@@ -240,7 +240,7 @@
 ### Update VSCODE Theme
 - Update All VSCODE Theme
 
-## 0.3.0
+## 0.3.0🎉
 ### Update VSCODE Theme
 - Update All VSCODE Theme
 ### Update README
@@ -260,33 +260,43 @@
 ### Update VSCODE Theme
 - Change Old Profile Picture Circle Logo And Added New Profile Picture Circle Logo(Changelog Logo)
 
-## 0.3.2
+## 0.3.2🔥
 ### New Modern Theme Preview
 [![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)
 #### New Modern Theme
 - VSCODE Theme Added: Add Amiral Ariska Dark Theme Modern
 - VSCODE Theme Added: Add Amiral Ariska Light Theme Modern
 
-## 0.3.3
+## 0.3.3✨
 ### GIF Added
 - Added GIF For VSCODE Theme Before And After(Changelog)
 
-## 0.3.4
+## 0.3.4🔥
 ### Update VSCODE Theme Icons And Changelog Logo
 - Updated Profile Picture Logo(VSCODE Theme Icons)
 - Updated Profile Picture Circle Logo(Changelog Logo)
 
-## 0.3.5
+## 0.3.5🔥
 ### Update README
 - README Updates: Replace this font name is "Droid Sans Mono" to this font is called "Droid Sans Mono"
 - README Updates: Replace this font name is "Fira Mono" to this font is called "Fira Mono"
 ### Update VSCODE Theme Keyword
 - Add "Amiral Ariska Dark Modern Theme", "Amiral Ariska Light Modern Theme", "amiral ariska dark theme modern", "amiral ariska light theme modern", "codeAmiral Theme", "codeAmiral theme", "VSCODE Dark Modern Theme", "VSCODE Light Modern Theme", "vscode dark modern theme", "vscode light modern theme", "Dark Modern Theme", "Light Modern Theme", "dark modern theme" and "light modern theme" keyword For VSCODE Theme
 
-## 0.3.6
+## 0.3.6⚙
 ### Update VSCODE Theme Description
 - Fix misspelling "Offical" of "Official" Description For VSCODE Theme
 
 ## 0.3.7⏳
 ### Coming Soon to The New Amiral Ariska VSCODE Theme
 - Amiral Ariska Dark And Light Classic Theme will release on August 23, 2022
+
+## 0.3.8
+### Add Every Emoji to CHANGELOG in the list
+- v0.3.0🎉
+- v0.3.2🔥
+- v0.3.3✨
+- v0.3.4🔥
+- v0.3.5🔥
+- v0.3.6⚙
+- v0.3.7⏳
