@@ -16,5 +16,5 @@
 # Coming Soon to Amiral Ariska VSCODE Theme
 | No  |         VSCODE Theme Name         |  Release Date   |
 | :-: | :-------------------------------: | :-------------: |
-|  1  | Amiral Ariska Dark Classic Theme  | August 24, 2022 |
-|  2  | Amiral Ariska Light Classic Theme | August 24, 2022 |
+|  1  | Amiral Ariska Dark Classic Theme  | August 24, 2024 |
+|  2  | Amiral Ariska Light Classic Theme | August 24, 2024 |
