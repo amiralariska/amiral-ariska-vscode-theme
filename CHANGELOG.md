@@ -289,7 +289,7 @@
 
 ## 0.3.7⏳
 ### Coming Soon to The New Amiral Ariska VSCODE Theme
-- Amiral Ariska Dark And Light Classic Theme will release on August 23, 2022
+- Amiral Ariska Dark And Light Classic Theme will release on August 24, 2024
 
 ## 0.3.8
 ### Add Every Emoji to CHANGELOG in the list
@@ -300,3 +300,21 @@
 - v0.3.5🔥
 - v0.3.6⚙
 - v0.3.7⏳
+
+## 0.3.9📅
+### Wrong Date on Amiral Ariska VSCODE Theme Release Date
+Before:
+# Coming Soon to Amiral Ariska VSCODE Theme
+| No  |         VSCODE Theme Name         |  Release Date   |
+| :-: | :-------------------------------: | :-------------: |
+|  1  | Amiral Ariska Dark Classic Theme  | August 23, 2022 |
+|  2  | Amiral Ariska Light Classic Theme | August 23, 2022 |
+After:
+# Coming Soon to Amiral Ariska VSCODE Theme
+| No  |         VSCODE Theme Name         |  Release Date   |
+| :-: | :-------------------------------: | :-------------: |
+|  1  | Amiral Ariska Dark Classic Theme  | August 24, 2024 |
+|  2  | Amiral Ariska Light Classic Theme | August 24, 2024 |
+### Wrong Date on CHANGELOG
+- Before: August 23, 2022
+- After: August 24, 2024
