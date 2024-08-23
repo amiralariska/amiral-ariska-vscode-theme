@@ -318,3 +318,18 @@ After:
 ### Wrong Date on CHANGELOG
 - Before: August 23, 2022
 - After: August 24, 2024
+
+## 0.3.10📅
+### Amiral Ariska VSCODE Theme Release Date Updates
+Before:
+# Coming Soon to Amiral Ariska VSCODE Theme
+| No  |         VSCODE Theme Name         |  Release Date   |
+| :-: | :-------------------------------: | :-------------: |
+|  1  | Amiral Ariska Dark Classic Theme  | August 24, 2024 |
+|  2  | Amiral Ariska Light Classic Theme | August 24, 2024 |
+After:
+# Coming Soon to Amiral Ariska VSCODE Theme
+| No  |         VSCODE Theme Name         |  Release Date   |
+| :-: | :-------------------------------: | :-------------: |
+|  1  | Amiral Ariska Dark Classic Theme  | August 31, 2024 |
+|  2  | Amiral Ariska Light Classic Theme | August 31, 2024 |
