@@ -333,3 +333,7 @@ After:
 | :-: | :-------------------------------: | :-------------: |
 |  1  | Amiral Ariska Dark Classic Theme  | August 31, 2024 |
 |  2  | Amiral Ariska Light Classic Theme | August 31, 2024 |
+
+## 0.3.11📅
+### Amiral Ariska VSCODE Theme Release Date Updates(Coming Soon)
+- Change the date from August 31, 2024 to October 5, 2024
