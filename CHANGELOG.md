@@ -337,3 +337,9 @@ After:
 ## 0.3.11📅
 ### Amiral Ariska VSCODE Theme Release Date Updates(Coming Soon)
 - Change the date from August 31, 2024 to October 5, 2024
+
+## 0.4.0🔥
+### Update VSCODE Theme
+- Update Activity Bar Top And Bottom Background And Foreground
+### Amiral Ariska VSCODE Theme Release Date Updates(Coming Soon)📅
+- Change the date from October 5, 2024 to October 12, 2024
