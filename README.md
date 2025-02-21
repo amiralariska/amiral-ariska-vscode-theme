@@ -1,7 +1,7 @@
-## New Modern Theme Preview
-> 💡 New Modern Theme Replace V2 theme for Modern Theme
+## New Classic Theme Preview
+> 💡 New Amiral Ariska Classic Theme
 
-[![Amiral Ariska Modern Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/preview-modern-themes/amiral-ariska-modern-themes.jpg)
+[![Amiral Ariska Classic Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)
 Try out the new amiral ariska modern theme for a nice look.
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
