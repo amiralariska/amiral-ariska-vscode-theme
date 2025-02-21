@@ -2,7 +2,7 @@
 > 💡 New Amiral Ariska Classic Theme
 
 [![Amiral Ariska Classic Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)
-Try out the new amiral ariska modern theme for a nice look.
+Try out the new amiral ariska classic theme for a nice look.
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
 ## Amiral Ariska Theme Modern Demo
