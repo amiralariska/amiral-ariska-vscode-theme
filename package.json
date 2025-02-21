@@ -74,14 +74,24 @@
                 "path": "./themes/amiral-ariska-light-theme-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Dark Theme Modern",
+                "label": "Amiral Ariska Dark Modern Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/amiral-ariska-theme-modern/amiral-ariska-dark-theme-modern-color-theme.json"
             },
             {
-                "label": "Amiral Ariska Light Theme Modern",
+                "label": "Amiral Ariska Light Modern Theme",
                 "uiTheme": "vs",
                 "path": "./themes/amiral-ariska-theme-modern/amiral-ariska-light-theme-modern-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Dark Classic Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-theme-classic/amiral-ariska-dark-theme-classic-color-theme.json"
+            },
+            {
+                "label": "Amiral Ariska Light Classic Theme",
+                "uiTheme": "vs",
+                "path": "./themes/amiral-ariska-theme-classic/amiral-ariska-light-theme-classic-color-theme.json"
             },
             {
                 "label": "Amiral Ariska Dark Theme(Cyan)",
