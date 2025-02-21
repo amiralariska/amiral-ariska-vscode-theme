@@ -3,8 +3,10 @@
 	"name": "Amiral Ariska Dark Theme(Blue)",
 	"type": "dark",
 	"colors": {
+		// Base Colors
 		"foreground": "#0000ff",
 		"focusBorder": "#00ffff",
+		// Editor Colors
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
 		"editor.selectionBackground": "#0000a5df",
@@ -43,13 +45,16 @@
 		"editorMarkerNavigationError.headerBackground": "#ff252575",
 		"editorMarkerNavigationWarning.headerBackground": "#ffff2575",
 		"editorMarkerNavigationInfo.headerBackground": "#2525ff75",
+		// Banner Colors
 		"banner.background": "#0000ff",
 		"banner.foreground": "#00ffff",
 		"banner.iconForeground": "#00ffff",
+		// Title Bar Colors
 		"titleBar.activeBackground": "#050505",
 		"titleBar.activeForeground": "#0000ff",
 		"titleBar.inactiveBackground": "#020202",
 		"titleBar.inactiveForeground": "#0000cb",
+		// Command Center Colors
 		"commandCenter.background": "#050505",
 		"commandCenter.foreground": "#0000ff",
 		"commandCenter.activeBackground": "#0000c5a5",
@@ -58,16 +63,20 @@
 		"commandCenter.border": "#0000ff",
 		"commandCenter.activeBorder": "#00ffff",
 		"commandCenter.inactiveBorder": "#0000cb",
+		// Tab Colors
 		"tab.inactiveBackground": "#050505",
 		"tab.inactiveForeground": "#0000cb",
 		"tab.activeBackground": "#000000",
 		"tab.activeForeground": "#0000ff",
 		"tab.border": "#25252500",
 		"tab.activeBorder": "#0000ff",
+		// Text Colors
 		"textLink.foreground": "#00ffff",
 		"textLink.activeForeground": "#00cfcf",
+		// Tree Colors
 		"tree.indentGuidesStroke": "#0000ff",
 		"tree.inactiveIndentGuidesStroke": "#0000ffa5",
+		// Activity Bar And Activity Bar Top Colors
 		"activityBar.background": "#050505",
 		"activityBar.foreground": "#0000ff",
 		"activityBar.inactiveForeground": "#0000ffa5",
@@ -76,27 +85,35 @@
 		"activityBarTop.background": "#050505",
 		"activityBarTop.foreground": "#0000ff",
 		"activityBarTop.inactiveForeground": "#0000ffa5",
+		// Profile Colors
 		"profileBadge.background": "#0000df",
 		"profileBadge.foreground": "#00ffff",
+		// Badge Colors
 		"badge.background": "#0000df",
 		"badge.foreground": "#00ffff",
+		// Button Colors
 		"button.background": "#0000ef",
 		"button.foreground": "#00ffff",
 		"button.hoverBackground": "#0000cf",
 		"button.secondaryBackground": "#0000a5",
 		"button.secondaryForeground": "#00ffff",
 		"button.secondaryHoverBackground": "#000085",
+		// BreadCrumb Colors
 		"breadcrumb.background": "#050505",
 		"breadcrumb.foreground": "#0000ff",
 		"breadcrumb.focusForeground": "#0000a5",
 		"breadcrumb.activeSelectionForeground": "#0000cb",
 		"breadcrumbPicker.background": "#000000",
+		// Checkbox Colors
 		"checkbox.background": "#101010",
 		"checkbox.foreground": "#00ff00",
+		// Debug Toolbar Colors
 		"debugToolBar.background": "#101010",
+		// Dropdown Colors
 		"dropdown.background": "#050505",
 		"dropdown.foreground": "#0000ff",
 		"dropdown.listBackground": "#050505",
+		// List Colors
 		"list.inactiveSelectionBackground": "#0000c550",
 		"list.inactiveSelectionForeground": "#0000cf",
 		"list.activeSelectionBackground": "#0000cfa5",
@@ -107,6 +124,7 @@
 		"list.highlightForeground": "#0000a5",
 		"list.focusBackground": "#0000cf",
 		"list.focusForeground": "#000000",
+		// Git Decoration Colors
 		"gitDecoration.untrackedResourceForeground": "#00cf25",
 		"gitDecoration.addedResourceForeground": "#00d525",
 		"gitDecoration.renamedResourceForeground": "#afcf50",
@@ -117,12 +135,14 @@
 		"gitDecoration.ignoredResourceForeground": "#b5b5b5",
 		"gitDecoration.submoduleResourceForeground": "#a5cfe5",
 		"gitDecoration.conflictingResourceForeground": "#cf50a5",
+		// Git Merge Colors
 		"merge.currentHeaderBackground": "#00a5a5c5",
 		"merge.currentContentBackground": "#00a5a550",
 		"merge.incomingHeaderBackground": "#50a5ffc5",
 		"merge.incomingContentBackground": "#50a5ff65",
 		"merge.commonHeaderBackground": "#a5a5a5c5",
 		"merge.commonContentBackground": "#a5a5a550",
+		// Menu And Menubar Colors
 		"menu.background": "#050505",
 		"menu.foreground": "#0000cb",
 		"menu.separatorBackground": "#0000ff",
@@ -130,6 +150,7 @@
 		"menu.selectionForeground": "#0000ff",
 		"menubar.selectionBackground": "#0000b5a5",
 		"menubar.selectionForeground": "#0000c5",
+		// Notification Colors
 		"notifications.background": "#101010",
 		"notifications.foreground": "#0000ff",
 		"notificationsErrorIcon.foreground": "#ff2525",
@@ -138,8 +159,11 @@
 		"notificationCenterHeader.background": "#050505",
 		"notificationCenterHeader.foreground": "#0000ff",
 		"notificationToast.border": "#0000ff",
+		// ProgressBar Colors
 		"progressBar.background": "#0000ff",
+		// Sash Colors
 		"sash.hoverBorder": "#0000ff",
+		// SideBar Colors
 		"sideBar.background": "#050505",
 		"sideBar.foreground": "#0000ff",
 		"sideBar.dropBackground": "#005050",
@@ -147,6 +171,7 @@
 		"sideBarSectionHeader.foreground": "#0000cf",
 		"sideBarSectionHeader.border": "#00000000",
 		"sideBarTitle.foreground": "#0000a5",
+		// Status Bar Colors
 		"statusBar.background": "#050505",
 		"statusBar.foreground": "#0000ff",
 		"statusBar.debuggingBackground": "#ff6500",
@@ -155,29 +180,37 @@
 		"statusBarItem.remoteForeground": "#0000ff",
 		"statusBar.noFolderBackground": "#000065",
 		"statusBar.noFolderForeground": "#0000ff",
+		// Scrollbar Colors
 		"scrollbar.shadow": "#0000ef",
 		"scrollbarSlider.background": "#0000ffa5",
 		"scrollbarSlider.hoverBackground": "#0000ff50",
 		"scrollbarSlider.activeBackground": "#0000ffc5",
+		// Minimap Colors
 		"minimapSlider.background": "#0000ffa5",
 		"minimapSlider.hoverBackground": "#0000ff50",
 		"minimapSlider.activeBackground": "#0000ffc5",
+		// Selection Colors
 		"selection.background": "#000085ef",
+		// Widget Colors
 		"widget.shadow": "#0000ef",
 		"editorWidget.background": "#050505",
 		"editorWidget.foreground": "#0000ff",
 		"editorWidget.resizeBorder": "#0000ff",
+		// Panel Colors
 		"panel.background": "#000000",
 		"panel.border": "#0000ff",
 		"panelTitle.activeForeground": "#0000ff",
 		"panelTitle.activeBorder": "#0000ff",
 		"panelTitle.inactiveForeground": "#0000cb",
 		"panelSectionHeader.background": "#0000ff",
+		// Terminal Colors
 		"terminalCursor.foreground": "#0000ff",
 		"terminal.selectionBackground": "#000085",
 		"terminal.border": "#0000ff",
+		// Picker Colors
 		"pickerGroup.border": "#0000ff",
 		"pickerGroup.foreground": "#00ffff",
+		// Peek View Colors
 		"peekViewTitle.background": "#050505",
 		"peekViewTitleLabel.foreground": "#0000ff",
 		"peekViewTitleDescription.foreground": "#0000ef",
@@ -188,7 +221,9 @@
 		"peekView.border": "#0000ff",
 		"peekViewEditor.background": "#000000",
 		"peekViewEditorGutter.background": "#050505",
+		// Icon Colors
 		"icon.foreground": "#0000ff",
+		// Inputs Colors
 		"input.background": "#050505",
 		"input.foreground": "#ffffff",
 		"input.border": "#0000ff",
@@ -204,18 +239,22 @@
 		"inputValidation.infoBackground": "#0000ff",
 		"inputValidation.infoBorder": "#0000c5",
 		"inputValidation.infoForeground": "#0000cf",
+		// Keybinding Colors
 		"keybindingLabel.background": "#050505",
 		"keybindingLabel.foreground": "#0000ff",
 		"keybindingLabel.bottomBorder": "#101010",
 		"keybindingLabel.border": "#101010",
+		// Welcome Page Colors
 		"welcomePage.background": "#000000",
 		"welcomePage.progress.background": "#00ffff",
 		"welcomePage.progress.foreground": "#0000ff",
 		"welcomePage.tileBackground": "#050505",
 		"welcomePage.tileHoverBackground": "#070707",
 		"welcomePage.tileBorder": "#0000ef",
+		// Walkthrough Colors
 		"walkThrough.embeddedEditorBackground": "#000000",
 		"walkthrough.stepTitle.foreground": "#0000ff",
+		// Extensions Colors
 		"extensionIcon.verifiedForeground": "#0000fffa",
 		"extensionIcon.starForeground": "#dfdf25fa",
 		"extensionIcon.preReleaseForeground": "#00a500fa",
