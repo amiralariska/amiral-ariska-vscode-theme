@@ -361,6 +361,6 @@ After:
 
 ## 0.4.3🔨
 ### VSCODE Theme Updates
-- Update scrollbar and minimap colors for Amiral Ariska Classic Theme
+- Update scrollbar, minimap word highlight and line highlight colors for Amiral Ariska Classic Theme
 ### README Updates
 - Fix README to reference Amiral Ariska Classic Theme instead of Modern Theme
