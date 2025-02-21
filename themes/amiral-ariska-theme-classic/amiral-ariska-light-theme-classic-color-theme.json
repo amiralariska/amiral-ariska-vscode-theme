@@ -183,14 +183,14 @@
 		"statusBar.noFolderBackground": "#000065",
 		"statusBar.noFolderForeground": "#00ffff",
 		// Scrollbar Colors
-		"scrollbar.shadow": "#0000ef",
-		"scrollbarSlider.background": "#0000ffa5",
-		"scrollbarSlider.hoverBackground": "#0000ff50",
-		"scrollbarSlider.activeBackground": "#0000ffc5",
+		"scrollbar.shadow": "#0080ef",
+		"scrollbarSlider.background": "#0080ffa5",
+		"scrollbarSlider.hoverBackground": "#0080ff50",
+		"scrollbarSlider.activeBackground": "#0080ffc5",
 		// Minimap Colors
-		"minimapSlider.background": "#0000ffa5",
-		"minimapSlider.hoverBackground": "#0000ff50",
-		"minimapSlider.activeBackground": "#0000ffc5",
+		"minimapSlider.background": "#0080ffa5",
+		"minimapSlider.hoverBackground": "#0080ff50",
+		"minimapSlider.activeBackground": "#0080ffc5",
 		// Selection Colors
 		"selection.background": "#0080dfef",
 		// Widget Colors
