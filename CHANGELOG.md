@@ -101,7 +101,7 @@
 - VSCODE Theme Updates: Update Syntax
 - VSCODE Theme Updates: Create new "amiral-ariska-theme-cyan" folder, move 4 file theme and Rename all file theme
 
-### Test vscodeignore
+### Text vscodeignore
 - Ignore Text File
 
 ## 0.0.9
@@ -347,3 +347,12 @@ After:
 ## 0.4.1📅
 ### Amiral Ariska VSCODE Theme Release Date Updates(Coming Soon)
 - Change the date from October 12, 2024 to October 30, 2024
+
+## 0.4.2🔥
+### VSCODE Theme Updates
+- Add Every Comment For All Amiral Ariska Theme
+### New Classic Theme Preview
+[![Amiral Ariska Classic Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)
+#### New Classic Theme
+- VSCODE Theme Added: Add Amiral Ariska Dark Classic Theme
+- VSCODE Theme Added: Add Amiral Ariska Light Classic Theme
