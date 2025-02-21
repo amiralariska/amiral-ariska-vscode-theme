@@ -356,3 +356,5 @@ After:
 #### New Classic Theme
 - VSCODE Theme Added: Add Amiral Ariska Dark Classic Theme
 - VSCODE Theme Added: Add Amiral Ariska Light Classic Theme
+### README, Images And GIF Updates
+- Add demo images for Amiral Ariska Classic Theme
