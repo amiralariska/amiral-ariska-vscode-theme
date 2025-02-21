@@ -14,7 +14,7 @@
 		"editor.inactiveSelectionBackground": "#0080c5df",
 		"editor.lineHighlightBorder": "#0080ffa5",
 		"editor.lineHighlightBackground": "#0080ff50",
-		"editor.wordHighlightBackground": "#0000a5cf",
+		"editor.wordHighlightBackground": "#0080a5cf",
 		"editorIndentGuide.background1": "#0080ef",
 		"editorIndentGuide.activeBackground1": "#0080ff",
 		"editorRuler.foreground": "#0000ff",
