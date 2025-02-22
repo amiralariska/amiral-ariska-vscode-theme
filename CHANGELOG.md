@@ -368,3 +368,7 @@ After:
 ## 0.4.4✨
 ### Images And GIF Updates
 - Add demo images for Amiral Ariska Classic Theme
+
+## 0.4.5✨
+### Images Updates
+- Update Amiral Ariska Classic Theme preview image
