@@ -364,3 +364,7 @@ After:
 - Update scrollbar, minimap word highlight and line highlight colors for Amiral Ariska Classic Theme
 ### README Updates
 - Fix README to reference Amiral Ariska Classic Theme instead of Modern Theme
+
+## 0.4.4✨
+### Images And GIF Updates
+- Add demo images for Amiral Ariska Classic Theme
