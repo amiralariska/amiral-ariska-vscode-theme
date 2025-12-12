@@ -38,4 +38,4 @@ This is the release date for all Amiral Ariska VSCODE Themes. You can see the re
 | 14  |   Amiral Ariska Light Classic Theme    | Released |
 | 15  |     Amiral Ariska Dark Retro Theme     | Upcoming |
 | 16  |    Amiral Ariska Light Retro Theme     | Upcoming |
-> Note: This is the status for all Amiral Ariska VSCODE Themes. You can see the status for each theme in the table above.
+> Note: This is the status for all Amiral Ariska VSCODE Themes. You can see the status for each vscode theme in the table above.
