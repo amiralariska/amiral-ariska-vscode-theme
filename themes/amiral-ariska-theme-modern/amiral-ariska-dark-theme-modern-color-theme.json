@@ -3,8 +3,10 @@
 	"name": "Amiral Ariska Dark Modern Theme",
 	"type": "dark",
 	"colors": {
+		// Base Colors (Modern)
 		"foreground": "#0000ff",
 		"focusBorder": "#00ffff",
+		// Editor Colors (Modern)
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
 		"editor.selectionBackground": "#0000a5df",
@@ -43,13 +45,16 @@
 		"editorMarkerNavigationError.headerBackground": "#ff252575",
 		"editorMarkerNavigationWarning.headerBackground": "#ffff2575",
 		"editorMarkerNavigationInfo.headerBackground": "#2525ff75",
+		// Banner Colors (Modern)
 		"banner.background": "#0000ff",
 		"banner.foreground": "#00ffff",
 		"banner.iconForeground": "#00ffff",
+		// Title Bar Colors (Modern)
 		"titleBar.activeBackground": "#0a0a0a",
 		"titleBar.activeForeground": "#0000ff",
 		"titleBar.inactiveBackground": "#050505",
 		"titleBar.inactiveForeground": "#0000db",
+		// Command Center Colors (Modern)
 		"commandCenter.background": "#0f0f0f",
 		"commandCenter.foreground": "#00ffff",
 		"commandCenter.activeBackground": "#0000c5a5",
@@ -58,16 +63,21 @@
 		"commandCenter.border": "#0000ff",
 		"commandCenter.activeBorder": "#00ffff",
 		"commandCenter.inactiveBorder": "#0000cb",
+		// Tab Colors (Modern)
 		"tab.inactiveBackground": "#080808",
 		"tab.inactiveForeground": "#00cbcb",
 		"tab.activeBackground": "#050505",
 		"tab.activeForeground": "#0000ff",
 		"tab.border": "#25252500",
-		"tab.activeBorder": "#00ffff",
+		"tab.activeBorder": "#00ffff25",
+		"tab.activeBorderTop": "#00ffff",
+		// Text Colors (Modern)
 		"textLink.foreground": "#00dfdf",
 		"textLink.activeForeground": "#00bfbf",
+		// Tree Colors (Modern)
 		"tree.indentGuidesStroke": "#0000ff",
 		"tree.inactiveIndentGuidesStroke": "#0000ffa5",
+		// Activity Bar And Activity Bar Top Colors (Modern)
 		"activityBar.background": "#0a0a0a",
 		"activityBar.foreground": "#0000ff",
 		"activityBar.activeBorder": "#00ffff",
@@ -78,27 +88,35 @@
 		"activityBarTop.foreground": "#0000ff",
 		"activityBarTop.activeBorder": "#00ffff",
 		"activityBarTop.inactiveForeground": "#00ffffa5",
+		// Profile Colors (Modern)
 		"profileBadge.background": "#00ffff",
 		"profileBadge.foreground": "#0000ff",
+		// Badge Colors (Modern)
 		"badge.background": "#00dfdf",
 		"badge.foreground": "#0000ff",
+		// Button Colors (Modern)
 		"button.background": "#00efef",
 		"button.foreground": "#0000ff",
 		"button.hoverBackground": "#00cfcf",
 		"button.secondaryBackground": "#00a5a5",
 		"button.secondaryForeground": "#0000ff",
 		"button.secondaryHoverBackground": "#008585",
+		// BreadCrumb Colors (Modern)
 		"breadcrumb.background": "#0a0a0a",
 		"breadcrumb.foreground": "#0000ff",
 		"breadcrumb.focusForeground": "#0000a5",
 		"breadcrumb.activeSelectionForeground": "#0000cb",
 		"breadcrumbPicker.background": "#000000",
+		// Checkbox Colors (Modern)
 		"checkbox.background": "#151515",
-		"checkbox.foreground": "#00ff00",
+		"checkbox.foreground": "#008000",
+		// Debug Toolbar Colors (Modern)
 		"debugToolBar.background": "#101010",
+		// Dropdown Colors (Modern)
 		"dropdown.background": "#0b0b0b",
 		"dropdown.foreground": "#0000ff",
 		"dropdown.listBackground": "#080808",
+		// List Colors (Modern)
 		"list.inactiveSelectionBackground": "#0000c550",
 		"list.inactiveSelectionForeground": "#0000cf",
 		"list.activeSelectionBackground": "#0000cfa5",
@@ -109,6 +127,7 @@
 		"list.highlightForeground": "#0000a5",
 		"list.focusBackground": "#0000cf",
 		"list.focusForeground": "#000000",
+		// Git Decoration Colors (Modern)
 		"gitDecoration.untrackedResourceForeground": "#00cf25",
 		"gitDecoration.addedResourceForeground": "#00d525",
 		"gitDecoration.renamedResourceForeground": "#afcf50",
@@ -119,12 +138,14 @@
 		"gitDecoration.ignoredResourceForeground": "#b5b5b5",
 		"gitDecoration.submoduleResourceForeground": "#a5cfe5",
 		"gitDecoration.conflictingResourceForeground": "#cf50a5",
+		// Git Merge Colors (Modern)
 		"merge.currentHeaderBackground": "#00a5a5c5",
 		"merge.currentContentBackground": "#00a5a550",
 		"merge.incomingHeaderBackground": "#50a5ffc5",
 		"merge.incomingContentBackground": "#50a5ff65",
 		"merge.commonHeaderBackground": "#a5a5a5c5",
 		"merge.commonContentBackground": "#a5a5a550",
+		// Menu And Menubar Colors (Modern)
 		"menu.background": "#0a0a0a",
 		"menu.foreground": "#0000cb",
 		"menu.separatorBackground": "#0000ff",
@@ -132,6 +153,7 @@
 		"menu.selectionForeground": "#0000ff",
 		"menubar.selectionBackground": "#0000b5a5",
 		"menubar.selectionForeground": "#0000c5",
+		// Notification Colors (Modern)
 		"notifications.background": "#151515",
 		"notifications.foreground": "#0000ff",
 		"notificationsErrorIcon.foreground": "#ff2525",
@@ -140,8 +162,11 @@
 		"notificationCenterHeader.background": "#0a0a0a",
 		"notificationCenterHeader.foreground": "#0000ff",
 		"notificationToast.border": "#0000ff",
+		// Progress Bar Colors (Modern)
 		"progressBar.background": "#00ffff",
+		// Sash Colors (Modern)
 		"sash.hoverBorder": "#0000ff",
+		// Side Bar Colors (Modern)
 		"sideBar.background": "#0a0a0a",
 		"sideBar.foreground": "#00ffff",
 		"sideBar.dropBackground": "#000050",
@@ -149,6 +174,7 @@
 		"sideBarSectionHeader.foreground": "#0000cf",
 		"sideBarSectionHeader.border": "#00000000",
 		"sideBarTitle.foreground": "#0000a5",
+		// Status Bar Colors (Modern)
 		"statusBar.background": "#0a0a0a",
 		"statusBar.foreground": "#0000ff",
 		"statusBar.debuggingBackground": "#ff6500",
@@ -157,29 +183,37 @@
 		"statusBarItem.remoteForeground": "#0000ff",
 		"statusBar.noFolderBackground": "#000065",
 		"statusBar.noFolderForeground": "#00ffff",
+		// Scrollbar Colors (Modern)
 		"scrollbar.shadow": "#0000ef",
 		"scrollbarSlider.background": "#0000ffa5",
 		"scrollbarSlider.hoverBackground": "#0000ff50",
 		"scrollbarSlider.activeBackground": "#0000ffc5",
+		// Minimap Colors (Modern)
 		"minimapSlider.background": "#0000ffa5",
 		"minimapSlider.hoverBackground": "#0000ff50",
 		"minimapSlider.activeBackground": "#0000ffc5",
+		// Selection Colors (Modern)
 		"selection.background": "#000085ef",
+		// Widget Colors (Modern)
 		"widget.shadow": "#0000ef",
 		"editorWidget.background": "#050505",
 		"editorWidget.foreground": "#00ffff",
 		"editorWidget.resizeBorder": "#00ffff",
+		// Panel Colors (Modern)
 		"panel.background": "#000000",
 		"panel.border": "#0000ff",
 		"panelTitle.activeForeground": "#0000ff",
 		"panelTitle.activeBorder": "#00ffff",
 		"panelTitle.inactiveForeground": "#00cbcb",
 		"panelSectionHeader.background": "#00ffff",
+		// Terminal Colors (Modern)
 		"terminalCursor.foreground": "#0000ff",
 		"terminal.selectionBackground": "#000085",
 		"terminal.border": "#0000ff",
+		// Picker Colors (Modern)
 		"pickerGroup.border": "#00ffff",
 		"pickerGroup.foreground": "#0000ff",
+		// Peek View Colors (Modern)
 		"peekViewTitle.background": "#050505",
 		"peekViewTitleLabel.foreground": "#0000ff",
 		"peekViewTitleDescription.foreground": "#0000ef",
@@ -190,7 +224,9 @@
 		"peekView.border": "#0000ff",
 		"peekViewEditor.background": "#000000",
 		"peekViewEditorGutter.background": "#050505",
+		// Icon Colors (Modern)
 		"icon.foreground": "#0000ff",
+		// Input Colors (Modern)
 		"input.background": "#0f0f0f",
 		"input.foreground": "#ffffff",
 		"input.border": "#0000ff",
@@ -206,18 +242,22 @@
 		"inputValidation.infoBackground": "#0000ff",
 		"inputValidation.infoBorder": "#0000c5",
 		"inputValidation.infoForeground": "#00ffff",
+		// Keybinding Label Colors (Modern)
 		"keybindingLabel.background": "#050505",
 		"keybindingLabel.foreground": "#00ffff",
 		"keybindingLabel.bottomBorder": "#101010",
 		"keybindingLabel.border": "#101010",
+		// Welcome Page Colors (Modern)
 		"welcomePage.background": "#000000",
 		"welcomePage.progress.background": "#00ffff",
 		"welcomePage.progress.foreground": "#0000ff",
 		"welcomePage.tileBackground": "#050505",
 		"welcomePage.tileHoverBackground": "#070707",
 		"welcomePage.tileBorder": "#00efef",
+		// Walkthrough Colors (Modern)
 		"walkThrough.embeddedEditorBackground": "#000000",
 		"walkthrough.stepTitle.foreground": "#0000ff",
+		// Extension Colors (Modern)
 		"extensionIcon.verifiedForeground": "#0085fffa",
 		"extensionIcon.starForeground": "#dfdf25fa",
 		"extensionIcon.preReleaseForeground": "#00a500fa",

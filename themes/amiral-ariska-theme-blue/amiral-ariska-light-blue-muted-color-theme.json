@@ -69,7 +69,7 @@
 		"tab.activeBackground": "#ffffff",
 		"tab.activeForeground": "#0000ff",
 		"tab.border": "#25252500",
-		"tab.activeBorder": "#0000ff",
+		"tab.activeBorderTop": "#0000ff",
 		// Text Colors
 		"textLink.foreground": "#00ffff",
 		"textLink.activeForeground": "#00cfcf",
