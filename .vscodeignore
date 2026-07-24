@@ -1,6 +1,7 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+vscode-theme-tutorial
 amiral-ariska-theme-release-date.md
 vsc-extension-quickstart.md
 *.txt
