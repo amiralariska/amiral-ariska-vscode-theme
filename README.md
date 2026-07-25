@@ -1,10 +1,7 @@
-## New Classic Theme Preview
-> 💡 New Amiral Ariska Classic Theme
-
-[![Amiral Ariska Classic Theme Preview](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/preview-classic-themes/amiral-ariska-classic-themes.jpg)
-Try out the new amiral ariska classic theme for a nice look.
+[![Amiral Ariska VSCODE Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/all-amiral-ariska-vscode-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/all-amiral-ariska-vscode-theme-demo.gif)
+# Amiral Ariska Theme For VSCODE
 ## Amiral Ariska Theme Demo
-[![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/images/amiral-ariska-theme-blue-cyan/amiral-ariska-theme-blue-cyan-demo.gif)
+[![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-theme/amiral-ariska-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-theme/amiral-ariska-theme-demo.gif)
 ## Amiral Ariska Theme Modern Demo
 [![Amiral Ariska Modern Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-theme-modern-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-theme-modern-demo.gif)
 ## Amiral Ariska Theme Classic Demo
