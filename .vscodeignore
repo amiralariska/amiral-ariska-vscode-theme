@@ -4,4 +4,7 @@
 vscode-theme-tutorial/**
 amiral-ariska-theme-release-date.md
 vsc-extension-quickstart.md
+*.zip
+*.rar
+*.bat
 *.txt
