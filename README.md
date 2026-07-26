@@ -3,7 +3,7 @@
 ## Amiral Ariska Theme Demo
 [![Amiral Ariska Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-theme/amiral-ariska-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-theme/amiral-ariska-theme-demo.gif)
 ## Amiral Ariska Theme Modern Demo
-[![Amiral Ariska Modern Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-theme-modern-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-theme-modern-demo.gif)
+[![Amiral Ariska Modern Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-modern-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-modern-theme/amiral-ariska-modern-theme-demo.gif)
 ## Amiral Ariska Theme Classic Demo
 [![Amiral Ariska Classic Theme Demo](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-classic-theme/amiral-ariska-classic-theme-demo.gif)](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/refs/heads/amiral-ariska-theme/images/amiral-ariska-classic-theme/amiral-ariska-classic-theme-demo.gif)
 ## Amiral Ariska Theme Blue Demo
