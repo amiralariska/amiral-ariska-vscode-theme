@@ -67,17 +67,17 @@ this font is free for programming
 [![VSCODE Keyboard Shortcuts Tutorial 4 - Color Theme](https://raw.githubusercontent.com/amiralariska/amiral-ariska-vscode-theme/amiral-ariska-theme/vscode-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial/vscode-keyboard-shortcuts-color-theme-tutorial-4.gif)
 5. And now keyboard shortcuts has been changed
 > Note: If you want to follow vscode keyboard shortcuts settings and other vscode settings just follow this tutorial ☝
-## Other Keyboard Shortcuts Tips
-For more information About Amiral Ariska Theme Keyboard Shortcuts Tips<br>
+## Amiral Ariska Theme Release Date
+For more information About Amiral Ariska Theme Release Date<br>
 Click link down below<br>
-[Amiral Ariska Theme Keyboard Shortcuts Tips](https://github.com/amiralariska/amiral-ariska-vscode-theme/blob/amiral-ariska-theme/amiral-ariska-theme-release-date.md)
+[Amiral Ariska Theme Release Date](https://github.com/amiralariska/amiral-ariska-vscode-theme/blob/amiral-ariska-theme/amiral-ariska-theme-release-date.md)
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
 
 ## About Amiral Ariska Theme Steps
-For more information About Amiral Ariska Theme Steps<br>
+For more information About Amiral Ariska Theme Steps For The Keyboard Shortcuts Tips<br>
 Click link down below<br>
-[Amiral Ariska Theme Steps](https://github.com/amiralariska/amiral-ariska-vscode-theme-steps)
+[Amiral Ariska Theme Keyboard Shortcuts Tips - Steps](https://github.com/amiralariska/amiral-ariska-vscode-theme-steps)
 
 **Thank You For Using This Color Theme**
