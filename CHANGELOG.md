@@ -393,3 +393,7 @@ After:
 ## 0.4.8
 ### Forgot Changelog
 - Forgot to change the Changelog of Amiral Ariska Theme version [v0.4.7](#047) to v0.4.8
+
+## 0.4.9
+### README Updates
+- Update README.md with the latest information about the Amiral Ariska vscode themes
